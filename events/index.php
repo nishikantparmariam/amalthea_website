@@ -273,7 +273,7 @@
                                 <div>
                                     <b>"Design is a plan for arranging elements in such a way as best to accomplish a particular purpose." <br>— Charles Eames</b><br><br>Amalthea'19 is coming!<br><br>Do you love making robots? Are you a dreamer, dreaming about making India clean and healthy?<br><br>If yes, then the coming edition of roboquest is the perfect place for you to showcase your skills. Roboquest has been a part of Amalthea for the past 10 years. Over the years, it has changed identities, some time drastically and sometimes subtly. But one thing is for sure- the event has grown in scale and difficulty so prepare yourself cleverly. Build your robots to compete with your opponents and overcome challenges. The tasks will check every aspect of a robot- speed, precision, strength and logic. Be a part of Roboquest! Check the website for more updates.
                                     <br><br>
-                                    <!--<a href="../rulebooks/BrainWiz.pdf" class="btn btn-success">See Rulebook</a>-->
+                                    <a href="../rulebooks/roboquest.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/roboquest/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>  

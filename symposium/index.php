@@ -213,7 +213,7 @@
                             The Symposium aims to connect people from various industries with each other as well as academicians and industry experts. The collaborate and discuss the different challenges and difficulties faced in technological aspects of our society. As people with similar interests interact, ideas and solutions come out.
                             <br>
                             <br>
-                            <center>
+                            <center>`1  
                                 <a href="../registration/symposium/" class="btn btn-success"> Register Here &raquo;</a>
                             </center>                                                        
                         </div>             
