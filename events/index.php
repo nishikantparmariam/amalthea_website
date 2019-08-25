@@ -338,6 +338,8 @@
                                 <br>
                                 <div>
                                     <b>'Knowledge is Power' -Sir Francis Bacon</b><br><br>The congregation of intellects is back this year to raise the bar of quizzing yet again. Bigger and better, this year's edition will have heart-pumping rounds with brain-racking questions.<br><br>Come and battle it out with great college minds in a series of differently demanding rounds of general awareness questions with a slight hint of sci-tech due to the nature of Amalthea.<br><br>Get rewarded for knowledge, or get rewarded by knowledge. Either way, you win.
+                                    <br><br>
+                                    <a href="../registration/inquizzed/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                               
                         </div>                        
