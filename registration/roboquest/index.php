@@ -43,9 +43,10 @@
                         <div class="pageOneInnerContainerForm"  data-aos="fade-right" data-aos-duration="500"  data-aos-delay="400">                                                        
                             <div class="catext"> RoboQuest Registration </div> 
                             <hr>                             
-                            <div class="registrationText" style="color:#ff0000;">   marked are mandatory </div>                                      
+                            <div class="registrationText" style="color:#ff0000;">   *marked are mandatory </div>                                      
                             <b>
-                                (Team size : 2 to 5 Members)
+                                (Team size : 2 to 5 Members)<br><br>
+                                Participants will have to send a brief description of their bots and email it to <a href="mailto:amalthea@iitgn.ac.in">amalthea@iitgn.ac.in</a> by 10th October,2019
                             </b>
                             <br><br> <br>  
                             <div class="form-row "> 
