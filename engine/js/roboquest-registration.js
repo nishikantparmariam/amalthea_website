@@ -77,6 +77,29 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#teamname").val('');            
+                        $("#memonename").val('');                        
+                        $("#memonemobile").val('');    
+                        $("#memonecollegen").val('');            
+                        $("#memonebranch").val('');  
+                        $("#memoneresp").val('');  
+                        $("#memoneemail").val('');              
+                        $("#memtwoname").val('');                        
+                        $("#memtwomobile").val(''); 
+                        $("#memtwobranch").val('');                
+                        $("#memtwoemail").val('');   
+                        $("#memthreename").val('');                        
+                        $("#memthreemobile").val(''); 
+                        $("#memthreebranch").val('');                
+                        $("#memthreeemail").val('');   
+                        $("#memfourname").val('');                        
+                        $("#memfourmobile").val(''); 
+                        $("#memfourbranch").val('');                
+                        $("#memfouremail").val('');                          
+                        $("#memfivename").val('');                        
+                        $("#memfivemobile").val(''); 
+                        $("#memfivebranch").val('');                
+                        $("#memfiveemail").val('');  
 
                         
                     }

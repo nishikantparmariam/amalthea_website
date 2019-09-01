@@ -72,6 +72,24 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#teamname").val('');
+                        $("#schoolname").val('');            
+                        $("#memonename").val('');            
+                        $("#memonegrade").val('');            
+                        $("#memonemobile").val('');            
+                        $("#memoneemail").val('');              
+                        $("#memtwoname").val('');            
+                        $("#memtwograde").val('');            
+                        $("#memtwomobile").val('');            
+                        $("#memtwoemail").val('');  
+                        $("#memthirdname").val('');            
+                        $("#memthirdgrade").val('');            
+                        $("#memthirdmobile").val('');            
+                        $("#memthirdemail").val('');  
+                        $("#memfourthname").val('');            
+                        $("#memfourthgrade").val('');            
+                        $("#memfourthmobile").val('');            
+                        $("#memfourthemail").val('');
 
                         
                     }

@@ -69,6 +69,31 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#teamname").val('');
+                        $("#ccname").val('');            
+                        $('#ideaname').val('');
+                        $('#ideades').val('');
+
+                        $("#memonename").val('');                        
+                        $("#memonemobile").val('');    
+                        $("#memonemobile2").val('');            
+                        $("#memoneemail").val('');  
+                        
+                        $("#memtwoname").val('');                                 
+                        $("#memtwomobile").val('');            
+                        $("#memtwoemail").val('');  
+
+                        $("#memthreename").val('');                                 
+                        $("#memthreemobile").val('');            
+                        $("#memthreeemail").val('');  
+
+                        $("#memfourname").val('');                                    
+                        $("#memfourmobile").val('');            
+                        $("#memfouremail").val('');  
+
+                        $("#memfivename").val('');                                    
+                        $("#memfivemobile").val('');            
+                        $("#memfiveemail").val(''); 
 
                         
                     }

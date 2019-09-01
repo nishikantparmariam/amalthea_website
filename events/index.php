@@ -287,7 +287,19 @@
                                 <div>
                                     <b>“Do you like challenging problems?”</b><br><br>D’code is back this year to give you some more, and test your skills in algorithms.<br><br>D’code is a three-hour competitive programming contest held on Codechef. Light up your coding spirits and seek the accepted (AC) verdict on your submissions!
                                 </div>    
-                            </div>   
+                            </div>  
+                            <br>                          
+                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                <img src="../engine/images/events/drs.png" style="width:50%;margin-left:25%;">
+                                <div class=" titleTheme" style="text-align:center !important;">
+                                        
+                                     
+                                </div>
+                                <br>
+                                <div>
+                                    IDRL and Amalthea are back with the fourth edition of DRA. So, gear up for an unparalleled aerial racing competition as the best pilots assemble to battle it out to decide who takes the glory. A thrilling do-or-die tournament where professionals from all over India showcase their drone racing skills in an exquisitely constructed arena.<br><br>Be a part of India's first National Drone Racing Event, as Amalthea promises to give you an experience like never before.
+                                </div>    
+                            </div> 
                         </div>
                         <div class="col-md-6">  
                             <br>                          
@@ -304,6 +316,20 @@
                                     <a href="../rulebooks/BrainWiz.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/brainwiz/" class="btn btn-primary">Register</a>
                                 </div>    
+                            </div> 
+                            <br>                          
+                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                <img src="../engine/images/events/cubing.png" style="width:30%;margin-left:35%;">
+                                <div class="titleTheme" style="text-align:center !important;" style="text-align:center !important;">                                        
+                                     
+                                </div>
+                                <br>
+                                <div>
+                                <b>"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them." <br> — Enro Rubik</b><br><br>These are the famous words of the creator of the Rubik's cube. His curiosity gave us the cube, do you have the determination to solve them?<br><br>Amalthea is proud to bring to you the ___, an official WCA event. Cubing is not only about solving a 27 piece 3*3 cube, its much more than that. With dozens of cubes out in the market, cubing has become even more engaging and competitive. It tests your speed and your skills. So gear up and get ready to set your best times!
+                                    <br><br>
+                                    <a href="../rulebooks/amalthea-open.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="https://www.worldcubeassociation.org/competitions/AmaltheaOpen2019" class="btn btn-primary">Register</a>
+                                </div>    
                             </div>      
                             <br>                          
                             <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
@@ -316,19 +342,7 @@
                                 <div>
                                     Do you love F1 racing? Always want to experience the noise of the acceleration of IC engines? Want to show your handling skills? So this is the place for you. Build your own beast to compete against theopponents and win huge prize money.<br><br>Amalthea’19 gives you a chance to come and show your skills. We invite all the enthused champs out there. Be a part of one of the most exciting races. Be a part of DRIFT!
                                 </div>    
-                            </div>                                           
-                            <br>                          
-                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
-                                <img src="../engine/images/events/drs.png" style="width:50%;margin-left:25%;">
-                                <div class=" titleTheme" style="text-align:center !important;">
-                                        
-                                     
-                                </div>
-                                <br>
-                                <div>
-                                    IDRL and Amalthea are back with the fourth edition of DRA. So, gear up for an unparalleled aerial racing competition as the best pilots assemble to battle it out to decide who takes the glory. A thrilling do-or-die tournament where professionals from all over India showcase their drone racing skills in an exquisitely constructed arena.<br><br>Be a part of India's first National Drone Racing Event, as Amalthea promises to give you an experience like never before.
-                                </div>    
-                            </div>
+                            </div>                                                                       
                             <br>                          
                             <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
                                 <img src="../engine/images/events/inqui.png" style="width:50%;margin-left:25%;">

@@ -50,6 +50,16 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#memonename").val('');                        
+                        $("#memonemobile").val('');    
+                        $("#memonecollegen").val('');                        
+                        $("#memoneage").val('');  
+                        $("#memoneemail").val('');
+                        $("#memtwoname").val('');                        
+                        $("#memtwomobile").val('');    
+                        $("#memtwocollegen").val('');                        
+                        $("#memtwoage").val('');  
+                        $("#memtwoemail").val('');
 
                         
                     }

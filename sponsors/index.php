@@ -70,7 +70,7 @@
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
                     <a class="mainLinks2 " href="../#ToAboutPage">About</a>               
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
-                    <a class="mainLinks4 " href="../#ToExplorePage">Explore</a>
+                    <a class="mainLinks4 " href="../conclave/">Conclave</a>   
                     <a class="mainLinks5" href="../events/">Events</a>   
                     <a class="mainLinks6" href="../symposium/">Symposium</a>                          
                     <a class="mainLinks7" href="../pastsites">Past Sites</a>  

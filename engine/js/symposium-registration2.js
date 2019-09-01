@@ -41,7 +41,12 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
-
+                        $("#sname").val('');
+                        $("#sinstitute").val('');
+                        $("#sprogram").val('');              
+                        $("#ssop").val('');  
+                        $("#semail").val('');  
+                        $("#smob").val('');    
                         
                     }
                     else {
@@ -91,6 +96,11 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#pname").val('');
+                        $("#pinstitute").val('');
+                        $("#presearchinterest").val('');    
+                        $("#pemail").val('');  
+                        $("#pmob").val('');  
 
                         
                     }
@@ -141,6 +151,11 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#rname").val('');
+                        $("#rinstitute").val('');
+                        $("#rresearchinterest").val('');      
+                        $("#remail").val('');  
+                        $("#rmob").val('');    
 
                         
                     }
@@ -189,6 +204,11 @@
                         });
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
+                        $("#rename").val('');
+                        $("#recompany").val('');
+                        $("#refieldofworkofcompany").val('');  
+                        $("#reemail").val('');  
+                        $("#remob").val('');     
 
                         
                     }
