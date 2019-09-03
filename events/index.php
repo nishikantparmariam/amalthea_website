@@ -260,6 +260,8 @@
                                 <br>
                                 <div>
                                     After last year’s huge success, Cryptix is coming back this year in its third iteration. With more challenging and enthralling tasks, CryptixCTF will touch many aspects of information security.<br><br>CryptixCTF is jeopardy-style Capture The Flag(CTF) event with categories like web exploitation, reverse engineering and cryptography.  It will be a really good start for beginners interested in the field of cyber security. Remember, “Don’t be a Script kiddie”!.<br><br>Hosting platform links will be announced later. Stay glued to the website for updates. 
+                                    <br><br>
+                                    <a href="../registration/cryptix/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                               
                             <br>
@@ -286,6 +288,8 @@
                                 <br>
                                 <div>
                                     <b>“Do you like challenging problems?”</b><br><br>D’code is back this year to give you some more, and test your skills in algorithms.<br><br>D’code is a three-hour competitive programming contest held on Codechef. Light up your coding spirits and seek the accepted (AC) verdict on your submissions!
+                                    <br><br>
+                                    <a href="../registration/dcode/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>  
                             <br>                          
