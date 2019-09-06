@@ -44,7 +44,8 @@
         h3 {
             font-weight:bold;
             color:#454b69;            
-        }        
+        }     
+        
     </style>
 </head>
 <body>     
@@ -70,7 +71,7 @@
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
                     <a class="mainLinks2 " href="../#ToAboutPage">About</a>               
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
-                    <a class="mainLinks4 " href="../#ToExplorePage">Explore</a>
+                    <a class="mainLinks4 " href="../Conclave">Conclave</a>
                     <a class="mainLinks5" href="#">Events</a>                 
                     <a class="mainLinks6" href="../symposium/">Symposium</a>          
                     <a class="mainLinks7" href="../pastsites">Past Sites</a>  
@@ -232,6 +233,9 @@
                                     <b>"Technical skill is mastery of complexity, Art is mastery of simplicity."</b>
                                     <br><br>An artist is the one who makes a perfect balance between both. TechArts is an event which aims at challenging the brain with unconventional problems which intrigue the artist within to come up with a rather logical solution. It includes brain teasers, puzzles and challenges based on technical topics like Mathematics and implementation of algorithms.
                                     This one day enthralling event demands you to delve into an enigmatic space and pave a way out, fighting against the time. Check the website for updates.
+                                    <br><br>
+                                    <a href="../rulebooks/techarts.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="../registration/techarts/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>
                             <br>
@@ -261,6 +265,7 @@
                                 <div>
                                     After last year’s huge success, Cryptix is coming back this year in its third iteration. With more challenging and enthralling tasks, CryptixCTF will touch many aspects of information security.<br><br>CryptixCTF is jeopardy-style Capture The Flag(CTF) event with categories like web exploitation, reverse engineering and cryptography.  It will be a really good start for beginners interested in the field of cyber security. Remember, “Don’t be a Script kiddie”!.<br><br>Hosting platform links will be announced later. Stay glued to the website for updates. 
                                     <br><br>
+                                    <a href="../rulebooks/ctf.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/cryptix/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                               
