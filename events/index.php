@@ -294,6 +294,7 @@
                                 <div>
                                     <b>“Do you like challenging problems?”</b><br><br>D’code is back this year to give you some more, and test your skills in algorithms.<br><br>D’code is a three-hour competitive programming contest held on Codechef. Light up your coding spirits and seek the accepted (AC) verdict on your submissions!
                                     <br><br>
+                                    <a href="../rulebooks/decode.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/dcode/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>  
@@ -334,7 +335,7 @@
                                 </div>
                                 <br>
                                 <div>
-                                <b>"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them." <br> — Enro Rubik</b><br><br>These are the famous words of the creator of the Rubik's cube. His curiosity gave us the cube, do you have the determination to solve them?<br><br>Amalthea is proud to bring to you the ___, an official WCA event. Cubing is not only about solving a 27 piece 3*3 cube, its much more than that. With dozens of cubes out in the market, cubing has become even more engaging and competitive. It tests your speed and your skills. So gear up and get ready to set your best times!
+                                <b>"If you are curious, you'll find the puzzles around you. If you are determined, you will solve them." <br> — Enro Rubik</b><br><br>These are the famous words of the creator of the Rubik's cube. His curiosity gave us the cube, do you have the determination to solve them?<br><br>Amalthea is proud to bring to you the official WCA event. Cubing is not only about solving a 27 piece 3*3 cube, its much more than that. With dozens of cubes out in the market, cubing has become even more engaging and competitive. It tests your speed and your skills. So gear up and get ready to set your best times!
                                     <br><br>
                                     <a href="../rulebooks/amalthea-open.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="https://www.worldcubeassociation.org/competitions/AmaltheaOpen2019" class="btn btn-primary">Register</a>

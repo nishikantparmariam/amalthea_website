@@ -30,12 +30,27 @@
                                 Phone:phone                                                                          
                             }
                         });
-                        //console.log(jqxhr);
-                        error_show("Your response has been recorded!!");
-                        $("#fullname").val('');
-                        $("#codechef_username").val('');            
-                        $('#email').val('');
-                        $('#phone').val('');
+                        var xmlhttp = new XMLHttpRequest();
+                            xmlhttp.onreadystatechange = function() {
+                                if (this.readyState == 4 && this.status == 200) {
+                                    var response = this.responseText;
+                                    if(response=="done"){                                                                        
+                                        error_show("Your response has been recorded!!");
+                                        $("#fullname").val('');
+                                        $("#codechef_username").val('');            
+                                        $('#email').val('');
+                                        $('#phone').val('');
+
+                                    }
+                                    else {
+                                        //$(".alertSubscribeTop").html("Please try again");
+                                        error_show("Please try again");
+                                    }
+                                }
+                            };
+                            xmlhttp.open("GET", "sendMail.php?fullname="+fullname+"&username="+codechef_username+"&email="+email+"&phone="+phone, true);
+                            xmlhttp.send();
+                        //console.log(jqxhr);                        
 
                         
                     }
