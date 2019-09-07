@@ -88,8 +88,8 @@
                                     <input name="memonemobile" id="memonemobile" type="text" class="form-control" placeholder="Mobile Numer" required>
                                 </div> 
                                 <div class="form-group col-md-6 "> 
-                                    <label> Email ID </label> 
-                                    <input name="memoneemail" id="memoneemail" type="text" class="form-control" placeholder="Email ID (optional)" required>                                
+                                    <label> Email ID* </label> 
+                                    <input name="memoneemail" id="memoneemail" type="text" class="form-control" placeholder="Email ID" required>                                
                                 </div>                          
                             </div>
 
@@ -122,8 +122,8 @@
                                     <input name="memtwomobile" id="memtwomobile" type="text" class="form-control" placeholder="Mobile Numer" required>
                                 </div> 
                                 <div class="form-group col-md-6 "> 
-                                    <label> Email ID </label> 
-                                    <input name="memtwoemail" id="memtwoemail" type="text" class="form-control" placeholder="Email ID (optional)" required>                                
+                                    <label> Email ID* </label> 
+                                    <input name="memtwoemail" id="memtwoemail" type="text" class="form-control" placeholder="Email ID" required>                                
                                 </div>                          
                             </div>
 
@@ -156,8 +156,8 @@
                                     <input name="memthirdmobile" id="memthirdmobile" type="text" class="form-control" placeholder="Mobile Numer" required>
                                 </div> 
                                 <div class="form-group col-md-6 "> 
-                                    <label> Email ID </label> 
-                                    <input name="memthirdemail" id="memthirdemail" type="text" class="form-control" placeholder="Email ID (optional)" required>                                
+                                    <label> Email ID* </label> 
+                                    <input name="memthirdemail" id="memthirdemail" type="text" class="form-control" placeholder="Email ID" required>                                
                                 </div>                          
                             </div>
 
@@ -167,11 +167,11 @@
                             <br><br>
                             <div class="form-row ">                                                                   
                                 <div class="form-group col-md-6"> 
-                                    <label> Full name of the participant* </label> 
+                                    <label> Full name of the participant </label> 
                                     <input name="memfourthname" id="memfourthname" type="text" class="form-control" placeholder="Full Name" required>
                                 </div> 
                                 <div class="form-group col-md-6 "> 
-                                    <label> Grade of participant* </label> 
+                                    <label> Grade of participant </label> 
                                 
                                     <select name="memfourthgrade" id="memfourthgrade" class="form-control" required>
                                         <option value="" disabled selected style="display: none">--Please select an option--</option> 
@@ -185,12 +185,12 @@
                             </div>
                             <div class="form-row ">                                                                   
                                 <div class="form-group col-md-6"> 
-                                    <label> Mobile Number* </label> 
+                                    <label> Mobile Number </label> 
                                     <input name="memfourthmobile" id="memfourthmobile" type="text" class="form-control" placeholder="Mobile Numer" required>
                                 </div> 
                                 <div class="form-group col-md-6 "> 
                                     <label> Email ID </label> 
-                                    <input name="memfourthemail" id="memfourthemail" type="text" class="form-control" placeholder="Email ID (optional)" required>                                
+                                    <input name="memfourthemail" id="memfourthemail" type="text" class="form-control" placeholder="Email ID" required>                                
                                 </div>                          
                             </div>
 

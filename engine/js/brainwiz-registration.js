@@ -28,11 +28,11 @@
             var memfourthmobile = $("#memfourthmobile").val();            
             var memfourthemail = $("#memfourthemail").val();  
 
-            if(teamname == null || schoolname == null || memonename == null || memonegrade == null || memonemobile == null  || memtwoname == null || memtwograde == null || memtwomobile == null || memthirdname == null || memthirdgrade == null || memthirdmobile == null){                
+            if(teamname == null || schoolname == null || memonename == null || memonegrade == null || memonemobile == null || memoneemail == null  || memtwoname == null || memtwograde == null || memtwomobile == null || memtwoemail == null || memthirdname == null || memthirdgrade == null || memthirdmobile == null || memthirdemail == null){                
                 error_show("Please fill all the fields");
             } else {
 
-                if(teamname.trim() == "" || schoolname.trim() == "" || memonename.trim() == "" || memonegrade.trim() == "" || memonemobile.trim() == ""  || memtwoname.trim() == "" || memtwograde.trim() == "" || memtwomobile.trim() == "" || memthirdname.trim() == "" || memthirdgrade.trim() == "" || memthirdmobile.trim() == ""){
+                if(teamname.trim() == "" || schoolname.trim() == "" || memonename.trim() == "" || memonegrade.trim() == "" || memonemobile.trim() == "" || memoneemail.trim() == ""  || memtwoname.trim() == "" || memtwograde.trim() == "" || memtwomobile.trim() == "" || memtwoemail.trim() == "" || memthirdname.trim() == "" || memthirdgrade.trim() == "" || memthirdmobile.trim() == "" || memthirdemail.trim() == ""){
                     error_show("Please fill all the fields");
                 }
                 else {
@@ -71,6 +71,22 @@
                             }
                         });
                         //console.log(jqxhr);
+                        var xmlhttp = new XMLHttpRequest();
+                        xmlhttp.onreadystatechange = function() {
+                            if (this.readyState == 4 && this.status == 200) {
+                                var response = this.responseText;
+                                if(response=="done"){                                                                        
+                                    
+
+                                }
+                                else {
+                                    //$(".alertSubscribeTop").html("Please try again");
+                                    //error_show("Please try again");
+                                }
+                            }
+                        };
+                        xmlhttp.open("GET", "sendMail.php?email1="+memoneemail+"&email2="+memtwoemail+"&email3="+memthirdemail, true);
+                        xmlhttp.send();                        
                         error_show("Your response has been recorded!!");
                         $("#teamname").val('');
                         $("#schoolname").val('');            
@@ -89,8 +105,7 @@
                         $("#memfourthname").val('');            
                         $("#memfourthgrade").val('');            
                         $("#memfourthmobile").val('');            
-                        $("#memfourthemail").val('');
-
+                        $("#memfourthemail").val('');    
                         
                     }
                     else {
