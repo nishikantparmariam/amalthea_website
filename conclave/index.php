@@ -68,7 +68,7 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="#">Conclave</a>    
                     <a class="mainLinks5" href="../events/">Events</a>         
-                    <a class="mainLinks6" href="#">Symposium</a>                
+                    <a class="mainLinks6" href="../symposium">Symposium</a>                
                     <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
                     <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
                     <a class="mainLinks9" href="../techexpo">Past Exhibitors</a>                  

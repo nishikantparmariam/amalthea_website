@@ -375,7 +375,7 @@
                                             </div>
                                             <div class="name">
                                                     <hr>
-                                                    <b>Dr. Sudhir K. Jain<br> Founding Director, IIT Gandhinagar</b><br><br>  <br>   
+                                                    <br><b>Dr. Sudhir K. Jain<br> Director, IIT Gandhinagar</b><br><br>  <br>   
                                             </div>
                                         </div>
                                     </div>                                    
@@ -390,7 +390,8 @@
                                         </div>
                                         <div class="name">
                                                 <hr>
-                                                <b>Shri Narendra Modi <br> Honorable Prime Minister</b><br><br><br><br>
+                                                <br>
+                                                <b>Shri Narendra Modi <br> Honorable Prime Minister</b><br><br><br>
                                         </div>
                                     </div>
                                 </div>
