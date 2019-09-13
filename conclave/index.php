@@ -225,10 +225,123 @@
                         </div>
                     </div>
                     <div class="col-md-4"></div>
+                </div>
+                <div class="row">        
+                    <div class="col-md-1"></div>            
+                    <div class="col-md-10">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/SudarshanSen.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Sudarshan Sen<br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    Former Executive Director
+                                    RBI               <br>   
+                                    Board of Directors BHIM   
+                                    <br><br><br>
+                                                                                                                                
+                                </div>  
+                            </div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/annadurai.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr Mylswamy Annadurai
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    Project Director for Chandrayaan-1<br>
+                                    Programme Director for Mangalyaan<br>
+                                    Padma Shri Awardee
+
+                                                                                                                           
+                                </div>  
+                            </div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/Abhinay_Bhasin.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Abhinay Bhasin<br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    Director, Data Sciences<br>
+                                    Dentsu Aegis Network<br>
+                                    Forbes 30 under 30 | 2019<br>
+                                    "Evolution of Communication"                                                                                     
+                                    <br>
+                                </div>  
+                            </div>                            
+                        </div>
+                    </div>   
+                    <div class="col-md-1"></div>                             
+                </div>
+                <div class="row">        
+                    <div class="col-md-1"></div>                        
+                    <div class="col-md-10">
+                        <div class="row">         
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/Neel_Gala2.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Neel Gala
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    CEO, Incore Semiconductors<br>
+                                    Technical Lead, SHAKTI<br>
+                                    "Lowering Barriers of Innovation - Open Source"  
+                                    <br>            
+                                    <br>     <br>     <br>                                                                        
+                                </div>   
+                            </div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="https://media.licdn.com/dms/image/C5603AQFZXjvb3PXRQQ/profile-displayphoto-shrink_200_200/0?e=1573689600&v=beta&t=M1yw9vYA-wuYmVp1nrHZsX4nSBZuaHHBignXNvDu9oA" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Peter Cook
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    British Deputy High Commissioner<br><br>
+                                    British Deputy High Commission
+
+                                    <br>
+                                    <br>
+                                    <br>                                                                                       
+                                </div>  
+                            </div>                            
+                            <div class="col-md-2"></div>
+                        </div>
+                    </div> 
+                    <div class="col-md-1"></div>                               
                 </div>          
-                <div class="row">
-                    <div class="col-md-1">                        
-                    </div>
+                <!--<div class="row">        
+                    <div class="col-md-1"></div>            
                     <div class="col-md-10">
                         <div class="row">
                             <div class="col-md-4">
@@ -266,6 +379,7 @@
                                     Dentsu Aegis Network<br>
                                     Forbes 30 under 30 | 2019<br>
                                     "Evolution of Communication"                                                                                     
+                                    <br>
                                 </div>  
                             </div>
                             <div class="col-md-4">
@@ -280,18 +394,68 @@
                                         </b>                                                                                           
                                     </div>          
                                     <br><br>
-                                    Former Executive Director<br>
-                                    RBI                     
+                                    Former Executive Director
+                                    RBI                  <br>                  <br>
+                                    Board of Directors BHIM   
+                                    <br>
+                                                                                                                             
+                                </div>  
+                            </div>                            
+                        </div>
+                    </div>   
+                    <div class="col-md-1"></div>                             
+                </div>
+                <div class="row">        
+                    <div class="col-md-1"></div>                        
+                    <div class="col-md-10">
+                        <div class="row">         
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="https://media.licdn.com/dms/image/C5603AQFZXjvb3PXRQQ/profile-displayphoto-shrink_200_200/0?e=1573689600&v=beta&t=M1yw9vYA-wuYmVp1nrHZsX4nSBZuaHHBignXNvDu9oA" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Peter Cook
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    British Deputy High Commissioner<br><br>
+                                    British Deputy High Commission
+
                                     <br>
                                     <br>
-                                    <br>                                                                                           
+                                    <br>                                                                                       
                                 </div>  
                             </div>
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/annadurai.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr Mylswamy Annadurai
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br><br>
+                                    Project Director for Chandrayaan-1<br>
+                                    Programme Director for Mangalyaan<br>
+                                    Padma Shri Awardee
+
+                                    <br>
+                                    <br>
+                                                                                                                           
+                                </div>  
+                            </div>
+                            <div class="col-md-2"></div>
                         </div>
-                    </div>
-                    <div class="col-md-1">                        
-                    </div>
-                </div>
+                    </div> 
+                    <div class="col-md-1"></div>                               
+                </div>-->
             </div>
             <br><br><br>
         </div>        
