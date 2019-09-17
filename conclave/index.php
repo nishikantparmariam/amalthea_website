@@ -245,7 +245,7 @@
                                     Former Executive Director
                                     RBI               <br>   
                                     Board of Directors BHIM   
-                                    <br><br><br>
+                                    <br><br><br><br><br>
                                                                                                                                 
                                 </div>  
                             </div>
@@ -263,7 +263,8 @@
                                     <br><br>
                                     Project Director for Chandrayaan-1<br>
                                     Programme Director for Mangalyaan<br>
-                                    Padma Shri Awardee
+                                    Padma Shri Awardee<br><br>
+                                    Topic: "Space Exploration: The Future"
 
                                                                                                                            
                                 </div>  
@@ -282,9 +283,9 @@
                                     <br><br>
                                     Director, Data Sciences<br>
                                     Dentsu Aegis Network<br>
-                                    Forbes 30 under 30 | 2019<br>
-                                    "Evolution of Communication"                                                                                     
-                                    <br>
+                                    Forbes 30 under 30 | 2019<br><br>
+                                    Topic: "Evolution of Communication"                                                                              
+                                    <br><br><br>
                                 </div>  
                             </div>                            
                         </div>
@@ -309,8 +310,8 @@
                                     </div>          
                                     <br><br>
                                     CEO, Incore Semiconductors<br>
-                                    Technical Lead, SHAKTI<br>
-                                    "Lowering Barriers of Innovation - Open Source"  
+                                    Technical Lead, SHAKTI<br><br>
+                                    Topic: "Lowering Barriers of Innovation - Open Source"
                                     <br>            
                                     <br>     <br>     <br>                                                                        
                                 </div>   

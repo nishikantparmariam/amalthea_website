@@ -351,6 +351,9 @@
                                 <br>
                                 <div>
                                     Do you love F1 racing? Always want to experience the noise of the acceleration of IC engines? Want to show your handling skills? So this is the place for you. Build your own beast to compete against theopponents and win huge prize money.<br><br>Amalthea’19 gives you a chance to come and show your skills. We invite all the enthused champs out there. Be a part of one of the most exciting races. Be a part of DRIFT!
+                                    <br><br>
+                                    <a href="../rulebooks/drift.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="../registration/drift/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                                                                       
                             <br>                          
@@ -365,6 +368,24 @@
                                     <br><br>
                                     <a href="../rulebooks/inquizzed.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/inquizzed/" class="btn btn-primary">Register</a>
+                                </div>    
+                            </div> 
+                            <br>                          
+                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                <img src="../engine/images/events/electronica.png" style="width:50%;margin-left:25%;">
+                                <div class="  titleTheme" style="text-align:center !important;" style="text-align:center !important;">                                        
+                                     
+                                </div>
+                                <br>
+                                <div>
+                                <b>“One man’s “magic” is another man’s engineering. “Supernatural” is a null word.”
+                                    <br>— Robert A. Heinlein</b>
+                                    <br><br>
+                                    Curiosity sparks Innovation, which cradles today's science and technology with not just brains but ingenuity as well and thus, We at Amalthea 2019, bring to you, ELECTRONICA. An event which will test your fundamentals in the field of Electronics. It will leave you puzzled but at the same time will help you enhance your technical prowess as you solve real-life problems. It will test your ability to design circuits to suit your needs; hence provoking a sense of fidelity to the field of Science and Technology. 
+                                    So, to all the misfits and the rebels out there, to the tech-savvy freaks, We invite you to be a part of this engrossing event. Register here to win loads of prizes! Stay tuned for more updates                                    
+                                    <br><br>
+                                    <!--<a href="../rulebooks/inquizzed.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="../registration/inquizzed/" class="btn btn-primary">Register</a>-->
                                 </div>    
                             </div>                               
                         </div>                        

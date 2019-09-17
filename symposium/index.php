@@ -41,6 +41,9 @@
             font-weight:bold;
             font-size:15pt;
         }
+        .flex-box99 {
+            height:8vh !important;
+        }
     </style>
 </head>
 <body>     
@@ -206,17 +209,8 @@
     <div class="secondPage" id="ToAboutPage">
         <div class="secondPageContainer">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-8">
-                        <br><br><br><br><br><br><br>
-                        <div class="description-box-inner-pages "   data-aos="fade-up"  data-aos-duration="1600">
-                            The Symposium aims to connect people from various industries with each other as well as academicians and industry experts. The collaborate and discuss the different challenges and difficulties faced in technological aspects of our society. As people with similar interests interact, ideas and solutions come out.
-                            <br>
-                            <br>
-                            <center>`1  
-                                <a href="../registration/symposium/" class="btn btn-success"> Register Here &raquo;</a>
-                            </center>                                                        
-                        </div>             
+                <div class="row">                    
+                    <div class="col-md-7">                                
                         <br><br>  <br><br>
                         <div class="description-box-inner-pages box1"   data-aos="fade-up"  data-aos-duration="1600">
                             <div class="titleTheme" style="text-align:left;">
@@ -228,31 +222,129 @@
                             <br><br>We aim at organising a symposium in pharma-management that discusses how drugs, especially the essential medicines that cure deadly diseases can be made available to the society easily and at their convenience. We will not only talk about existing methods, technology, policy framework and ongoing research but also about future innovations to ease the process. This will serve as a platform not only to inform each other about existing processes but also to ideate and collaborate.  
                         </div>                    
                     </div>
-                    <div class="col-md-4">
-                        <br><br>
-                        <div class="description-box-inner-pages box1"   data-aos="fade-up"  data-aos-duration="1600" >                                                        
-                            <div class="img" style="width:80%;margin-left:10%;">
-                                <img src="../engine/images/symp_sp1.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
-                            </div>
-                            <br><br>
-                            <div style="font-size:15pt;text-align:center;">                            
-                                <b>Sachin Dubey</b>           
-                                <br><br>
-                                <button class="btn btn-primary" data-toggle="modal" data-target="#sp1modal">Know More &raquo;</button>                 
-                            </div>      
-                            <hr>
-                            <div class="img" style="width:80%;margin-left:10%;">
-                                <img src="../engine/images/symp_sp2.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
-                            </div>
-                            <br><br>
-                            <div style="font-size:15pt;text-align:center;">                            
-                                <b>Dr. Srinivas Oruganti</b>           
-                                <br><br>
-                                <button class="btn btn-primary" data-toggle="modal" data-target="#sp2modal">Know More &raquo;</button>                 
-                            </div>                                                        
-                        </div>   
+                    <div class="col-md-5">
+                        <br><br><br>
+                            <div class="flex-box99"></div>
+                            <div class="flex-box99"></div>
+                            <div class="description-box-inner-pages "   data-aos="fade-up"  data-aos-duration="1600">
+                                The Symposium aims to connect people from various industries with each other as well as academicians and industry experts. The collaborate and discuss the different challenges and difficulties faced in technological aspects of our society. As people with similar interests interact, ideas and solutions come out.
+                                <div class="flex-box99"></div>
+                                <center>  
+                                    <a href="../registration/symposium/" class="btn btn-success"> Register Here &raquo;</a>
+                                </center>                                                        
+                            </div>     
                     </div>
                 </div>
+                <br><br>
+                <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">
+                    <br><b>Speakers</b>
+                    <div class="underLine"></div>
+                </div>
+                <br>
+                <div class="row">                            
+                    <div class="col-md-12">
+                        <div class="row">                            
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/symp_sp1.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Mr Sachin Dubey <br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br>
+                                    Head of Formulation and Analytical Development<br>
+                                    Glenmark Pharmaceuticals SA.
+                                    <br><br>
+                                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#first_modal">Know More &raquo;</a>
+                                    <br><br>                                                                        
+                                                                                                                                
+                                </div>  
+                            </div>             
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/symp_sp2.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr Srinivas Oruganti <br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br>
+                                    Director<br>
+                                    Dr Reddy’s Institute of<br> Life Sciences
+                                    <br><br>
+                                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#second_modal">Know More &raquo;</a>
+                                    <br><br>                                                                        
+
+                                                                                       
+                                </div>  
+                            </div>                                 
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80%;margin-left:10%;">
+                                        <img src="../engine/images/symp_sp3.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr Hemant G. Koshia<br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br>
+                                    Director
+                                    Commissioner<br>
+                                    Food and Drug Control Administration
+
+                                    <br><br>
+                                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#third_modal">Know More &raquo;</a>
+                                    <br><br>                                                                        
+
+                                                                                       
+                                </div>  
+                            </div>                                                      
+                        </div>
+                    </div> 
+                    <div class="col-md-1"></div>                                                                                 
+                </div> 
+                <br>
+                <div class="row">                            
+                    <div class="col-md-12">
+                        <div class="row">                            
+                            <div class="col-md-4">                                  
+                            </div>             
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80% !important;margin-left:10%;">
+                                        <img src="../engine/images/symp_sp4.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr Shivaraj Katageri <br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br>
+                                    Chief Scientific Officer<br>
+                                    Accord Life Spec Pvt Ltd
+                                    <br><br>
+                                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#fourth_modal">Know More &raquo;</a>
+                                    <br><br>                                                                        
+
+                                                                                       
+                                </div>  
+                            </div>                                 
+                            <div class="col-md-4">                                  
+                            </div>                                                      
+                        </div>
+                    </div> 
+                    <div class="col-md-1"></div>                                                                                 
+                </div>                
             </div>
             <br><br><br><br><br><br>
         </div>        
@@ -277,7 +369,7 @@
 
     
     <?php include_once '../contactModal2.php'?>
-    <div class="modal fade" id="sp1modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="first_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
             <div class="modal-header">
@@ -287,32 +379,71 @@
                 </button>
             </div>
             <div class="modal-body">
-                Sachin Dubey is the head of “Formulation and Analytical Development” at Glenmark Pharmaceuticals SA. He specialises in areas of biopharmaceuticals, biomaterial and pharmaceutical device engineering having a balanced experience of academia and industry with persistent interest in contributing towards basic research. He completed his M. Tech. (Pharm.) Pharmaceutical Technology (Biotechnology) in 2006 from National Institute of Pharmaceutical Education and Research (NIPER). He received the prestigious “Chairman Excellence Award” for best innovation team in 2018 along with the “Association of Pharmacy Professional (APP, India) Young Achiever Award” in 2018. He has numerous patents to his name and has even authored various books. He has successfully applied his extravagant teaching and industrial experience to steer and designing the strategies for drug product and device development for Glenmark’s biologics.
+                Mr Sachin Dubey specialises in areas of biopharmaceuticals, biomaterial and pharmaceutical device engineering having a balanced experience of academia and industry with a persistent interest in contributing towards basic research. He completed his M. Tech. (Pharm.) Pharmaceutical Technology (Biotechnology) in 2006 from the National Institute of Pharmaceutical Education and Research (NIPER). He received the prestigious “Chairman Excellence Award” for best innovation team in 2018 along with the “Association of Pharmacy Professional (APP, India) Young Achiever Award” in 2018. He has numerous patents to his name and has even authored various books. He has successfully applied his extravagant teaching and industrial experience to steer and designing the strategies for drug product and device development for Glenmark’s biologics.
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
             </div>
             </div>
         </div>
-    </div>
-    <div class="modal fade" id="sp2modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    </div>    
+    <div class="modal fade" id="second_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Dr. Srinivas Oruganti </h5>
+                <h5 class="modal-title" id="exampleModalLabel">Dr Srinivas Oruganti</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-            Dr. Srinivas Oruganti is actively engaged in academia-industry collaborations in the pharmaceutical sector in India and has been championing industry-oriented process chemistry programs at the Dr. Reddy’s Institute of Life Sciences in Hyderabad. He has actively contributed to several successful medicinal chemistry collaborations with several pharma and biotech companies, involving hit-to-lead identification and lead optimization (SAR activity and focused libraries) for different therapeutic areas. He has contributed significantly to various aspects of early stage process development of active pharmaceutical ingredients - ranging from therapeutic areas like diabetes, cardio-vascular, multiple sclerosis and cancer. His pivotal contributions pertain to bringing an active pharmaceutical ingredient to market as a generic drug through innovation in chemical process development and offering a strategic vantage point to any pharmaceutical company in its efforts to carve out a niche for itself in ever challenging generic drug market. He has been contributing to promotion of academic-industry linkages to promote the pharmaceutical innovation in the country and is a member of the Think-Tank of PHARMEXCIL-India to reduce API import dependence in the country.
+            Dr Srinivas Oruganti is actively engaged in academia-industry collaborations in the pharmaceutical sector in India and has been championing industry-oriented process chemistry programs at the Dr Reddy’s Institute of Life Sciences in Hyderabad. He has actively contributed to several successful medicinal chemistry collaborations with several pharma and biotech companies, involving hit-to-lead identification and lead optimization (SAR activity and focused libraries) for different therapeutic areas. He has contributed significantly to various aspects of early-stage process development of active pharmaceutical ingredients - ranging from therapeutic areas like diabetes, cardio-vascular, multiple sclerosis and cancer. His pivotal contributions pertain to bringing an active pharmaceutical ingredient to market as a generic drug through innovation in chemical process development and offering a strategic vantage point to any pharmaceutical company in its efforts to carve out a niche for itself in the ever-challenging 
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
             </div>
             </div>
         </div>
-    </div>
+    </div>    
+    <div class="modal fade" id="third_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Dr Hemant G. Koshia</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+            Dr H. G. Koshia is working as Commissioner at Food & Drugs Control Administration (FDCA), Gujarat since January 2009 and notified as Commissioner of Food Safety of the Gujarat State from 5th August 2011. He was selected as Joint
+Commissioner in 2001 through a competitive selection process conducted by a Gujarat Public Service Commission (GPSC). He joined FDCA, Gujarat as Drugs Inspector in 1986. He is actively representing in many International, national & state level committees like the council of expert (CoE) of United States Pharmacopoeia (USP), Drugs Technical Advisory Board (DTAB), Central Advisory Committee (CAC), Drug Consultative Committee (DCC), etc. Dr Koshia persuaded his graduation & post-graduation in Pharmacy at L.M. College of Pharmacy, Ahmedabad and PhD in Pharmaceutical Sciences from Saurashtra University. He holds a Diploma in Business Management from Rajendra Prasad Institute of Communication & Management, Mumbai. He played a vital role in the implementation of e-governance in the Food & Drugs Control Administration, Gujarat. He has received many Awards & Recognitions from Central Govt., State Govt. & Various professional bodies for e-Governance and Good Governance.
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
+            </div>
+            </div>
+        </div>
+    </div>    
+    <div class="modal fade" id="fourth_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Dr Shivaraj Katageri</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                A Pharma R&D professional, with M Pharm, Ph D(M Pharma from KLE College of Pharmacy, Belgaum, affiliated to Karnataka University,  T Dharwad,  Ph D from Jodhpur National University,  Jodhpur) having 23 years rich experience in Development,  Technology transfer and successful commercialization of various Pharmaceutical dosage forms for regulated markets like US/EUROPE/Emerging market in addition to Indian market. Filed several patent applications to US/EUROPE and Indian Patent Office. Worked in reputed Pharmaceutical companies in India and abroad.  Currently working as Chief Scientific Officer at Accord Life Spec Pvt Ltd in Chennai, previously worked in Strides Arcolab Ltd, Sun Pharma,  Aurobindo,  Amneal, Pfizer, CFL, Sai and Bal Pharma. Widely travelled nationally and internationally on several business assignments. Delivered guest  lecture on various topics at educational institutes and conferences.  Recently participated as a Speaker and Chairperson at Manufacturing and Process R&D Leaders Summit, held at Holiday Inn Mumbai International Airport,  organised by  Inventicon,  Business Intelligence. 
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
+            </div>
+            </div>
+        </div>
+    </div>    
+    A Pharma R&D professional, with M Pharm, Ph D(M Pharma from KLE College of Pharmacy, Belgaum, affiliated to Karnataka University,  T Dharwad,  Ph D from Jodhpur National University,  Jodhpur) having 23 years rich experience in Development,  Technology transfer and successful commercialization of various Pharmaceutical dosage forms for regulated markets like US/EUROPE/Emerging market in addition to Indian market. Filed several patent applications to US/EUROPE and Indian Patent Office. Worked in reputed Pharmaceutical companies in India and abroad.  Currently working as Chief Scientific Officer at Accord Life Spec Pvt Ltd in Chennai, previously worked in Strides Arcolab Ltd, Sun Pharma,  Aurobindo,  Amneal, Pfizer, CFL, Sai and Bal Pharma. Widely travelled nationally and internationally on several business assignments. Delivered guest  lecture on various topics at educational institutes and conferences.  Recently participated as a Speaker and Chairperson at Manufacturing and Process R&D Leaders Summit, held at Holiday Inn Mumbai International Airport,  organised by  Inventicon,  Business Intelligence. 
     <script>
         AOS.init({
             once:true
