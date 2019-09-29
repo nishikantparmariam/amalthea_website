@@ -27,7 +27,7 @@
                     <li><b>Marketing</b><br><br> Pradipbhai Prajapati<br>+91 972 727 4937<br>pradip.prajapati@iitgn.ac.in<br><br>Yash Kamble<br>+91 887 951 5322<br>yash.kamble@iitgn.ac.in<br><br></li>
                     <li><b>Symposium</b><br><br> Arpita Kabra<br>+91 701 639 1153<br>arpita.kabra@iitgn.ac.in</li>
                 </ul>
-                <b>Web Developer</b><br><br>
+                <b>Web & App Developer</b><br><br>
                 Nishikant Parmar<br>+91 913 130 4419<br>nishikant.parmar@iitgn.ac.in
             </div>                
         </div>

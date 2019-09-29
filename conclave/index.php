@@ -68,10 +68,10 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="#">Conclave</a>    
                     <a class="mainLinks5" href="../events/">Events</a>         
-                    <a class="mainLinks6" href="../symposium">Symposium</a>                
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9" href="../techexpo">Past Exhibitors</a>                  
+                    <a class="mainLinks6" href="../symposium">Symposium</a>    
+                    <a class="mainLinks7" href="../techexpo">Tech Expo</a>                  
+                    <a class="mainLinks8" href="../pastsites" >Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors/">Past Sponsors</a>                                
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -244,8 +244,10 @@
                                     <br><br>
                                     Former Executive Director
                                     RBI               <br>   
-                                    Board of Directors BHIM   
-                                    <br><br><br><br><br>
+                                    Board of Directors BHIM 
+                                    <br><br>
+                                    <b>Topic : "Fintech and it's regulation"  </b>
+                                    <br><br>
                                                                                                                                 
                                 </div>  
                             </div>
@@ -264,7 +266,7 @@
                                     Project Director for Chandrayaan-1<br>
                                     Programme Director for Mangalyaan<br>
                                     Padma Shri Awardee<br><br>
-                                    Topic: "Space Exploration: The Future"
+                                    <b>Topic: "Space Exploration: The Future"</b>
 
                                                                                                                            
                                 </div>  
@@ -284,7 +286,7 @@
                                     Director, Data Sciences<br>
                                     Dentsu Aegis Network<br>
                                     Forbes 30 under 30 | 2019<br><br>
-                                    Topic: "Evolution of Communication"                                                                              
+                                    <b>Topic: "Evolution of Communication"                                                                              </b>
                                     <br><br><br>
                                 </div>  
                             </div>                            
@@ -311,7 +313,7 @@
                                     <br><br>
                                     CEO, Incore Semiconductors<br>
                                     Technical Lead, SHAKTI<br><br>
-                                    Topic: "Lowering Barriers of Innovation - Open Source"
+                                    <b>Topic: "Lowering Barriers of Innovation - Open Source"</b>
                                     <br>            
                                     <br>     <br>     <br>                                                                        
                                 </div>   
@@ -340,7 +342,59 @@
                         </div>
                     </div> 
                     <div class="col-md-1"></div>                               
-                </div>          
+                </div>
+                <br><br><br> 
+                <div class="row">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
+                            <br><b>Gallery</b>
+                            <div class="underLine"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
+                </div>
+                <br><br><br>
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/3.JPG" class="img-thumbnail">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/4.JPG" class="img-thumbnail">
+                                    </div>                    
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/1.JPG" class="img-thumbnail">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/2.JPG" class="img-thumbnail">
+                                    </div>                    
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/5.JPG" class="img-thumbnail">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/conclave/6.JPG" class="img-thumbnail">
+                                    </div>                    
+                                </div>
+                            </div>
+                            <div class="col-md-1"></div>
+                        </div>
+                    </div>
+                </div>                                       
                 <!--<div class="row">        
                     <div class="col-md-1"></div>            
                     <div class="col-md-10">

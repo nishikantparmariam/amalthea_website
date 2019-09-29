@@ -73,10 +73,10 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="../Conclave">Conclave</a>
                     <a class="mainLinks5" href="#">Events</a>                 
-                    <a class="mainLinks6" href="../symposium/">Symposium</a>          
-                    <a class="mainLinks7" href="../pastsites">Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors">Past Sponsors</a>
-                    <a class="mainLinks9" href="../techexpo/">Past Exhibitors</a>                  
+                    <a class="mainLinks6" href="../symposium/">Symposium</a>  
+                    <a class="mainLinks7" href="../techexpo/">Tech Expo</a>        
+                    <a class="mainLinks8" href="../pastsites">Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors">Past Sponsors</a>                                      
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -263,7 +263,7 @@
                                 </div>
                                 <br>
                                 <div>
-                                    After last year’s huge success, Cryptix is coming back this year in its third iteration. With more challenging and enthralling tasks, CryptixCTF will touch many aspects of information security.<br><br>CryptixCTF is jeopardy-style Capture The Flag(CTF) event with categories like web exploitation, reverse engineering and cryptography.  It will be a really good start for beginners interested in the field of cyber security. Remember, “Don’t be a Script kiddie”!.<br><br>Hosting platform links will be announced later. Stay glued to the website for updates. 
+                                    After last year’s huge success, Cryptix is coming back this year in its third iteration. With more challenging and enthralling tasks, CryptixCTF will touch many aspects of information security.<br><br>CryptixCTF is jeopardy-style Capture The Flag(CTF) event with categories like web exploitation, reverse engineering and cryptography.  It will be a really good start for beginners interested in the field of cyber security. Remember, “Don’t be a Script kiddie”!.<br><br>Hosting platform links will be announced later. Stay glued to the website for updates. For any further queries or communication during ctf, join the discord server, <a href="https://discord.gg/rk2zg3P">https://discord.gg/rk2zg3P</a>
                                     <br><br>
                                     <a href="../rulebooks/ctf.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/cryptix/" class="btn btn-primary">Register</a>
@@ -308,8 +308,29 @@
                                 <br>
                                 <div>
                                     IDRL and Amalthea are back with the fourth edition of DRA. So, gear up for an unparalleled aerial racing competition as the best pilots assemble to battle it out to decide who takes the glory. A thrilling do-or-die tournament where professionals from all over India showcase their drone racing skills in an exquisitely constructed arena.<br><br>Be a part of India's first National Drone Racing Event, as Amalthea promises to give you an experience like never before.
+                                    <br><br>
+                                    <a href="../rulebooks/dra.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="https://droneracingindia.com/events/b47e2850-dac5-11e9-8f7e-a581dee836fc" class="btn btn-primary">Register</a>
                                 </div>    
-                            </div> 
+                            </div>
+                            <br>                          
+                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                <img src="../engine/images/events/logix.png" style="width:40%;margin-left:30%;">
+                                <div class="  titleTheme" style="text-align:center !important;" style="text-align:center !important;">                                        
+                                     
+                                </div>
+                                <br>
+                                <div>   
+                                    <b>“Logical thinking is the major aspect of developing your brain, once you put your logic to good use, your increased analytical skills will help you analyze the world better”
+                                    <br>— D.Bhutada
+                                    </b>                                    
+                                    <br><br>
+                                    Do you think you’re smart? Are you proud of being the “logical guy” in your friend circle? Get a chance to put your logical skills to good use and win exciting prizes. Participate in the new and exciting Logix as a set of logical puzzles await you. Register for the event and put your mind to the ultimate test. Stay hooked to the website for further updates.
+                                    <br><br>
+                                    <a href="../rulebooks/logix.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="../registration/logix/" class="btn btn-primary">Register</a>
+                                </div>    
+                            </div>  
                         </div>
                         <div class="col-md-6">  
                             <br>                          
@@ -384,13 +405,54 @@
                                     Curiosity sparks Innovation, which cradles today's science and technology with not just brains but ingenuity as well and thus, We at Amalthea 2019, bring to you, ELECTRONICA. An event which will test your fundamentals in the field of Electronics. It will leave you puzzled but at the same time will help you enhance your technical prowess as you solve real-life problems. It will test your ability to design circuits to suit your needs; hence provoking a sense of fidelity to the field of Science and Technology. 
                                     So, to all the misfits and the rebels out there, to the tech-savvy freaks, We invite you to be a part of this engrossing event. Register here to win loads of prizes! Stay tuned for more updates                                    
                                     <br><br>
-                                    <!--<a href="../rulebooks/inquizzed.pdf" class="btn btn-success">See Rulebook</a>
-                                    <a href="../registration/inquizzed/" class="btn btn-primary">Register</a>-->
+                                    <a href="../rulebooks/electronica.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="../registration/electronica/" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                               
                         </div>                        
                     </div>
-                    
+                    <br><br><br> 
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
+                                    <br><b>Gallery</b>
+                                    <div class="underLine"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                        <br><br><br>
+                        <div class="row">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/events/1.JPG" class="img-thumbnail">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/events/4.JPG" class="img-thumbnail">
+                                            </div>                    
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/events/2.JPG" class="img-thumbnail">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/events/5.JPG" class="img-thumbnail">
+                                            </div>                    
+                                        </div>                                
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </div>  
             </div>
         </div>        
         <div class="secondPageDesigns">            

@@ -68,10 +68,10 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="../conclave/">Conclave</a>      
                     <a class="mainLinks5" href="../events/">Events</a> 
-                    <a class="mainLinks6" href="../symposium/">Symposium</a>    
-                    <a class="mainLinks7" href="#" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9" href="../techexpo/">Past Exhibitors</a>                  
+                    <a class="mainLinks6" href="../symposium/">Symposium</a>   
+                    <a class="mainLinks7" href="../techexpo/">Tech Expo</a>   
+                    <a class="mainLinks8" href="#" >Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors/">Past Sponsors</a>                                    
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">

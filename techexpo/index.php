@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Past Exhibitors | Amalthea '19</title>
+    <title>Tech Expo | Amalthea '19</title>
     <meta name="author" content="Nishikant Bhavesh Parmar (nishikant.parmar@iitgn.ac.in, +91 913 130 4419)">    
     <meta name="description" value="Amalthea is the Annual Technical Summit of IIT Gandhinagar. The focus of Amalthea is mainly on spreading knowledge and inspiring minds to work for the greater human good.">
     <meta property="og:title" content="Amalthea 2019 | IIT Gandhinagar">
@@ -68,10 +68,10 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="../conclave/">Conclave</a>   
                     <a class="mainLinks5" href="../events/">Events</a>         
-                    <a class="mainLinks6" href="../symposium/">Symposium</a>                
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9" href="#">Past Exhibitors</a>                  
+                    <a class="mainLinks6" href="../symposium/">Symposium</a>    
+                    <a class="mainLinks7" href="#">Tech Expo</a>                     
+                    <a class="mainLinks8" href="../pastsites" >Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors/">Past Sponsors</a>                             
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -188,7 +188,7 @@
                         </div>                                  
                         <div class="amlText" >
                             <div style="font-family: 'Montserrat', sans-serif;">
-                                Past Exhibitors
+                                Tech Expo
                             </div>                        
                         </div> 
                                                                             
@@ -206,10 +206,84 @@
     <div class="secondPage" id="ToAboutPage">
         <div class="secondPageContainer">
             <div class="container5">
+                    <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                        
+                        <br><b>Present Exhibitors</b>
+                        <div class="underLine"></div>
+                    </div>
+                    <br><br>
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-1"></div>
-                            <div class="col-md-10">
+                                <div class="col-md-4">                                    
+                                    <br><a href="https://in.linkedin.com/company/arogyammedisoft"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/arogyam.jpg">     </a>
+                                    <br><br><a href="https://www.teksun.in/company/teksuntrening/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/teksun.png">               </a>                                                                                        
+                                    <br><br><a href="https://tlab-global.com/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/tlab-global.png">                                     </a>                                    
+                                </div>
+                                <div class="col-md-4">                                    
+                                    <br><a href="https://www.menloparktech.com/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/menloparktech.png">    </a>
+                                    <br><br><div class="img-thubnail"><div style="background:#454B69 !important;border-radius:3px;"><a href="https://smartnode.in/"><img style="width:100%;" class="" src="../engine/images/expocompanies/smartnode.png"></a></div>                                        </div>
+                                    <br><a href="https://eduvance.in/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/eduvance.png">                                    </a>
+                                    <br><br><a href="https://www.omicsonline.org/proceedings/creating-indro-the-tallest-humanoid-robot-of-india-and-further-developing-humanoid-robots-for-various-sectors-in-india-76170.html"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/indro30.jpg"> </a>                                    
+                                    <br><br><a href="https://www.mascottools.in/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/mascot.jpg">    </a>
+                                </div>
+                                <div class="col-md-4">                                    
+                                    <br><a href="https://www.guvnl.com/guvnl/Content.aspx?ContentId=62"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/guvnl.jpg">                                        </a>
+                                    <br><br><a href="https://www.ltc.healthcare/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/lyle.png">      </a>     
+                                    <br><br><a href="https://in.nec.com/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/nec.jpg">           </a>                           
+                                </div>
+                        </div>                        
+                    </div>
+                    <br><br><br> 
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
+                                    <br><b>Gallery</b>
+                                    <div class="underLine"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                        <br><br><br>
+                        <div class="row">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/exhibition/1.JPG" class="img-thumbnail">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/exhibition/2.JPG" class="img-thumbnail">
+                                            </div>                    
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/exhibition/3.JPG" class="img-thumbnail">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <br>
+                                                <img src="../engine/images/forPages/exhibition/4.JPG" class="img-thumbnail">
+                                            </div>                    
+                                        </div>                                
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </div>  
+                    <br><br>
+                    <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                        
+                        <br><b>Past Exhibitors</b>
+                        <div class="underLine"></div>
+                    </div>
+                    <br><br>
+                    <div class="container">
+                        <div class="row">
+                            
+                            <div class="col-md-12">
                                 <div class="row  ">
                                     <div class="col-md-4">
                                           
@@ -361,7 +435,7 @@
                                 </div>
                             </div>
                             <div class="col-md-1"></div>
-                        </div>
+                        </div>                        
                     </div>
             </div>        
         </div>        

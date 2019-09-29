@@ -71,10 +71,10 @@
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
                     <a class="mainLinks4 " href="../conclave/">Conclave</a>    
                     <a class="mainLinks5" href="../events/">Events</a>         
-                    <a class="mainLinks6" href="#">Symposium</a>                
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9" href="../techexpo">Past Exhibitors</a>                  
+                    <a class="mainLinks6" href="#">Symposium</a>             
+                    <a class="mainLinks7" href="../techexpo">Tech Expo</a>    
+                    <a class="mainLinks8" href="../pastsites" >Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors/">Past Sponsors</a>                                     
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -344,7 +344,49 @@
                         </div>
                     </div> 
                     <div class="col-md-1"></div>                                                                                 
-                </div>                
+                </div>   
+                <br><br><br> 
+                <div class="row">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
+                            <br><b>Gallery</b>
+                            <div class="underLine"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
+                </div>
+                <br><br><br>
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/symposium/1.JPG" class="img-thumbnail">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/symposium/2.JPG" class="img-thumbnail">
+                                    </div>                    
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/symposium/5.JPG" class="img-thumbnail">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <br>
+                                        <img src="../engine/images/forPages/symposium/4.JPG" class="img-thumbnail">
+                                    </div>                    
+                                </div>                                
+                            </div>
+                            <div class="col-md-1"></div>
+                        </div>
+                    </div>
+                </div>                                                    
             </div>
             <br><br><br><br><br><br>
         </div>        
