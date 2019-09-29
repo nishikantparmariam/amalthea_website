@@ -197,7 +197,7 @@
                                                                             
                     <div class="amlDateText" >
                                                     
-                            Amalthea '19 | 19-20 October
+                            Amalthea '19 | 19 October
                             
                     </div> 
             </div>
@@ -316,7 +316,7 @@
                 <div class="row">                            
                     <div class="col-md-12">
                         <div class="row">                            
-                            <div class="col-md-4">                                  
+                            <div class="col-md-2">                                  
                             </div>             
                             <div class="col-md-4">
                                 <br><br>
@@ -332,14 +332,37 @@
                                     <br>
                                     Chief Scientific Officer<br>
                                     Accord Life Spec Pvt Ltd
+                                    <br>
                                     <br><br>
                                     <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#fourth_modal">Know More &raquo;</a>
                                     <br><br>                                                                        
 
                                                                                        
                                 </div>  
+                            </div>    
+                            <div class="col-md-4">
+                                <br><br>
+                                <div class="description-box-inner-pages box1" style="text-align:center;"  data-aos="fade-up"  data-aos-duration="1600" >                                                        
+                                    <div class="img" style="width:80% !important;margin-left:10%;">
+                                        <img src="../engine/images/symp_sp5.jpg" class="img-fluid mx-auto d-block rounded-circle cara-img">
+                                    </div>
+                                    <br><br>
+                                    <div style="font-size:15pt;text-align:center;">                            
+                                        <b>Dr. Hardik J. Pandya <br><br>
+                                        </b>                                                                                           
+                                    </div>          
+                                    <br>                                    
+                                    Assistant Professor<br>
+                                    Department of Electronic Systems Engineering<br>
+                                    Division of EECS, IISc Bangalore
+                                    <br><br>
+                                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#fifth_modal">Know More &raquo;</a>
+                                    <br><br>                                                                        
+
+                                                                                       
+                                </div>  
                             </div>                                 
-                            <div class="col-md-4">                                  
+                            <div class="col-md-2">                                  
                             </div>                                                      
                         </div>
                     </div> 
@@ -485,7 +508,24 @@ Commissioner in 2001 through a competitive selection process conducted by a Guja
             </div>
         </div>
     </div>    
-    A Pharma R&D professional, with M Pharm, Ph D(M Pharma from KLE College of Pharmacy, Belgaum, affiliated to Karnataka University,  T Dharwad,  Ph D from Jodhpur National University,  Jodhpur) having 23 years rich experience in Development,  Technology transfer and successful commercialization of various Pharmaceutical dosage forms for regulated markets like US/EUROPE/Emerging market in addition to Indian market. Filed several patent applications to US/EUROPE and Indian Patent Office. Worked in reputed Pharmaceutical companies in India and abroad.  Currently working as Chief Scientific Officer at Accord Life Spec Pvt Ltd in Chennai, previously worked in Strides Arcolab Ltd, Sun Pharma,  Aurobindo,  Amneal, Pfizer, CFL, Sai and Bal Pharma. Widely travelled nationally and internationally on several business assignments. Delivered guest  lecture on various topics at educational institutes and conferences.  Recently participated as a Speaker and Chairperson at Manufacturing and Process R&D Leaders Summit, held at Holiday Inn Mumbai International Airport,  organised by  Inventicon,  Business Intelligence. 
+    <div class="modal fade" id="fifth_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Dr. Hardik J. Pandya</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Dr. Hardik J. Pandya is an Assistant Professor in the Department of Electronic Systems Engineering, Division of EECS, IISc Bangalore. He has developed an Advanced Microsystems and Biomedical Devices Facility for Clinical Research (Class 1000/10000 clean room) as well as Biomedical and Electronic (10-6-10-9) Engineering Systems Laboratory. He obtained his Ph.D. in microengineering from Indian Institute of Technology Delhi. He is a recipient of the prestigious Early Career Research Award from Science and Engineering Research Board, Government of India in 2017. He has on-going projects worth US$1.2 Million from IISc and Government of India focusing on Healthcare Technologies. He seeks to understand and exploit novel ways of fabricating microengineering devices using glass, silicon, polymers and integrates with unusual classes of micro/nanomaterials. His research interests include integrating biology/medicine with micro- and nanotechnology to develop innovative tools to solve unmet clinical problems. He is passionate about developing healthcare technologies. His current research focuses on flexible sensors for smart catheters, microsensors, microfluidic devices for drug-screening, and microelectromechanical systems, all lately with an emphasis on cancer diagnosis, therapeutics, e-nose, and biomedical device technologies.  Before joining IISc, he worked as a postdoctoral scientist in the Department of Mechanical Engineering, Maryland Robotics Center, University of Maryland, College Park and in the Department of Medicine, Brigham and Women’s Hospital–Harvard Medical School. His work has resulted in several patents and around 32 publications in peer-reviewed journals. His work has been highlighted as “Breaking Research News” by The Physicians Committee for Responsible Medicine. The work on portable cancer diagnosis tool was also featured on Science Translational Medicine as an Editorial Choice, Breast Cancer Diagnosis, March 2016 and has been highlighted on CapeRay blog as “Biochips and Diagnostic tools” in April 2016
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
+            </div>
+            </div>
+        </div>
+    </div>        
     <script>
         AOS.init({
             once:true
