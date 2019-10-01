@@ -20,15 +20,21 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script> 
-    <script src="../engine/js/symposium-registration.js"></script>               
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>            
+    <script>
+        
+  
+    </script>    
     <style>
         html, body {
             overflow-x:hidden !important;
             overflow-y:hidden !important;
         }
         body {
-            background:#2557C4;
+            
+        }
+        .flexBox {
+            height:20vh;
         }
     </style>  
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148907672-1"></script>
@@ -40,28 +46,50 @@
     </script>
 </head>
 <body>    
-    <div class="container">
-        <br><br><br><br><br><br><br><br><br>
-        <div class="row">                        
-            <div class="col-md-3"></div>
-            <div class="col-md-6">
-                <br><br><br><br>
-                <div class="box1" style="border-radius:3px !important;box-shadow:0px 0px 7px rgba(0,0,0,0.2) !important;background:#fff;">
-                    <div class="titleTheme" style="font-size:21px;text-align:center;">
-                        Download The Official Amalthea App
-                    </div>       
-                        
-                    <br>
-                    <a id="btnsbt" href="https://drive.google.com/open?id=1hapuyW3ocAyenWtGHxR_vSHtFyAsVJRw" class="btn btn-primary btn-lg" style="width:100%;">
-                        <i class="fa fa-download"></i> Click here to download the App
-                    </a>
+<div class="pageOne">
+        <div class="pageOneContainerForm">
+        <div class="container">
+            <div class="flexBox"></div>
+            <div class="row ">                        
+                <div class="col-md-2"></div>
+                <div class="col-md-8" style="margin:0px 15px;">
+                    <div class="row box1" data-aos="fade-up" data-aos-duration="1500">
+                        <div class="col-md-5" style="text-align:center;">
+                            <br>                                            
+                            <div class="brandAml">
+                                <div class="img">
+                                    <img src="../engine/images/aml_logo_brand_inv.png" style="width:70%;">
+                                </div>                            
+                            </div>        
+                            <br>
+                            <a href="https://play.google.com/store/apps/details?id=in.ac.iitgn.amalthea">                            
+                                <img src="../engine/images/download_ps.png" style="width:65%;">
+                            </a>
+                            <br><br>
+                        </div>
+                        <div class="col-md-7" style="text-align:justify;border-left:1px solid #e9ebec;">
+                            <br>
+                            <div style="font-size:14pt;">                            
+                                <b>Download the Official Amalthea '19 App</b>
+                            </div>
+                            <br>
+                            Get all information right in your hand, play our quizzing challenge 'QuickWit' & stay tuned to all the latest updates and annoncements from Amalthea '19
+                            <br><br>                        
+                            <br>
+                        </div>                        
+                    </div>
                 </div>
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>    <br><br><br><br>
+                <div class="col-md-2"></div>
             </div>
-            <div class="col-md-3"></div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         </div>
-    </div>
-    <br>
+        </div>
+        <div class="pageOneDesignForm">
+            <div class="Layer0"></div>
+            <div class="Layer1"></div>
+        </div>
+    </div>        
+    
     <div id="snackbar"></div>
     <script>
         AOS.init({

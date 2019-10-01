@@ -77,14 +77,14 @@
             <div class="innerContainer" id="pp">
                 <div class="mainLinksDiv">                    
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
-                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>               
-                    <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
-                    <a class="mainLinks4 " href="../Conclave">Conclave</a>
-                    <a class="mainLinks5" href="#">Events</a>                 
-                    <a class="mainLinks6" href="../symposium/">Symposium</a>  
-                    <a class="mainLinks7" href="../techexpo/">Tech Expo</a>        
-                    <a class="mainLinks8" href="../pastsites">Past Sites</a>  
-                    <a class="mainLinks9" href="../sponsors">Past Sponsors</a>                                      
+                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                   
+                    <a class="mainLinks3 " href="../Conclave">Conclave</a>
+                    <a class="mainLinks4" href="#">Events</a>                 
+                    <a class="mainLinks5" href="../symposium/">Symposium</a>  
+                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>        
+                    <a class="mainLinks7" href="../pastsites">Past Sites</a>  
+                    <a class="mainLinks8" href="../sponsors">Past Sponsors</a>   
+                    <a class="mainLinks9 " href="../app/">Download App</a>                                                                 
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">

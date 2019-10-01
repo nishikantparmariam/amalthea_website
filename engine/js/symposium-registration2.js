@@ -1,3 +1,20 @@
+        function sendMail(email, name){
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    var response = this.responseText;
+                    if(response=="done"){                                                                        
+                        
+                    }
+                    else {
+                        //$(".alertSubscribeTop").html("Please try again");
+                        //error_show("Please try again");
+                    }
+                }
+            };
+            xmlhttp.open("GET", "sendMail.php?email="+email+"&name="+name, true);
+            xmlhttp.send();     
+        }
 
         var scrollEventHandler = function()
         {
@@ -39,6 +56,7 @@
                                 Mobile:smob,                                      
                             }
                         });
+                        sendMail(semail, sname);
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
                         $("#sname").val('');
@@ -94,6 +112,7 @@
                                 Mobile:pmob                           
                             }
                         });
+                        sendMail(pemail, pname);
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
                         $("#pname").val('');
@@ -149,6 +168,7 @@
                                 Mobile:rmob                                       
                             }
                         });
+                        sendMail(remail, rname);
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
                         $("#rname").val('');
@@ -202,6 +222,7 @@
                                 Mobile:remob                                            
                             }
                         });
+                        sendMail(reemail, rename);
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
                         $("#rename").val('');
@@ -258,6 +279,7 @@
                                 Mobile:omob                                       
                             }
                         });
+                        sendMail(oemail, oname);
                         //console.log(jqxhr);
                         error_show("Your response has been recorded!!");
 
