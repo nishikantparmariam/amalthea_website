@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Design Workshop | Amalthea '19</title>
+    <title>Workshop | Amalthea '19</title>
     <meta name="author" content="Nishikant Bhavesh Parmar (nishikant.parmar@iitgn.ac.in, +91 913 130 4419)">    
     <meta name="description" value="Amalthea is the Annual Technical Summit of IIT Gandhinagar. The focus of Amalthea is mainly on spreading knowledge and inspiring minds to work for the greater human good.">
     <meta property="og:title" content="Amalthea 2019 | IIT Gandhinagar">
@@ -16,7 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Arvo:400&display=swap" rel="stylesheet">    
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">    
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="../engine/css/custom.css" rel="stylesheet">
+    <link href="../engine/css/custom.css" rel="stylesheet">    
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -41,13 +41,8 @@
             font-weight:bold;
             font-size:15pt;
         }
-        .flexboxme {
-                    padding-top:8vh !important;
-                }
-        @media only screen and (max-width:900px) { 
-            .flexboxme {
-                    padding-top:1vh !important;
-                }
+        .flex-box99 {
+            height:8vh !important;
         }
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148907672-1"></script>
@@ -67,7 +62,7 @@
                 <div class="navBarTriggerBar2"></div>            
                 <div class="navBarTriggerBar3"></div>
                 <div class="navBarTriggerText">
-                    <img src="../engine/images/aml_logo.png">
+                    <img style="width:100%;"  src="../engine/images/aml_logo.png">
                 </div>
             </div>             
             <div class="navBarTriggerContainer2">
@@ -82,12 +77,12 @@
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
                     <a class="mainLinks2 " href="../#ToAboutPage">About</a>               
                     <a class="mainLinks3 " href="../#ToThemePage">Theme</a>                  
-                    <a class="mainLinks4 " href="../#ToExplorePage">Explore</a>        
-                    <a class="mainLinks5" href="../events/">Events</a> 
-                    <a class="mainLinks6" href="../symposium/">Symposium</a>    
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9" href="../techexpo/">Past Exhibitors</a>                  
+                    <a class="mainLinks4 " href="../conclave/">Conclave</a>    
+                    <a class="mainLinks5" href="../events/">Events</a>         
+                    <a class="mainLinks6" href="#">Symposium</a>             
+                    <a class="mainLinks7" href="../techexpo">Tech Expo</a>    
+                    <a class="mainLinks8" href="../pastsites" >Past Sites</a>  
+                    <a class="mainLinks9" href="../sponsors/">Past Sponsors</a>                                     
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -196,23 +191,23 @@
             </div>-->
         </div>         
         <div class="firstPageContent">
-            <div class="firstPageContentInnerResponsive">
+            <div class="firstPageContentInnerResponsive"> 
                     <div class="amlLogoContainer">
-                        <div class="amlLogo">
-                            <img src="../engine/images/aml_logo.png" class="amlImg">                
-                        </div>                                        
-                    </div>                                  
-                    <div class="amlText" >
-                        <div style="font-family: 'Montserrat', sans-serif;">
-                            Design Workshop
-                        </div>                        
+                            <div class="amlLogo">
+                                <img  src="../engine/images/aml_logo.png" class="amlImg">                
+                            </div>                                        
+                        </div>                                  
+                        <div class="amlText" >
+                            <div style="font-family: 'Montserrat', sans-serif;">
+                                Workshop
+                            </div>                        
+                        </div> 
+                                                                            
+                    <div class="amlDateText" >
+                                                    
+                            Amalthea '19 | 19 October
+                            
                     </div> 
-                                                                           
-                <div class="amlDateText" >
-                                                
-                        Amalthea '19 | 19-20 October
-                        
-                </div> 
             </div>
         </div>       
     </div>      
@@ -224,37 +219,64 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-2"></div>
-                    <div class="col-md-4">
-                        <div class="card" style="width: 100%;">
-                            <img class="card-img-top" src="aml_icon.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title">Graphic Design Workshop</h5>
-                                <p class="card-text">
-                                    Be it a powerpoint presentation or a custom resume, graphic design can always come handy. 
-                                    <br><br>
-                                    <b>Create exciting work with a personal touch on Adobe Illustrator</b>
-                                    <br><br>
-                                    <b>11 Aug 2019 | 2 PM - 4 PM</b>
-                                </p>                                
+                    <div class="col-md-8">
+                        <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
+                            <br><b>In Association With</b>
+                            <br><br>                            
+                            <div class="row">
+                                <div class="col-md-3"></div>
+                                <div class="col-md-6">
+                                    <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                        <a href="https://www.htindialabs.com/"><img src = "../engine/images/workshop/htindialogo.png" style="width:100%;"></a>
+                                    </div>                                    
+                                </div>
+                                <div class="col-md-3"></div>                                
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                            <div class="flexboxme"></div>
-                            <a href="aml_icon.png" class="btn btn-primary btn-lg" style="width:100%;">Download Resource 1 <i class="fa fa-download"></i></a>
-                            <div class="flexboxme"></div>
-                            <a href="pots-shelves-flat-design_23-2147598456.jpg" class="btn btn-primary btn-lg" style="width:100%;">Download Resource 2 <i class="fa fa-download"></i></a>
-                            <div class="flexboxme"></div>
-                            <a href="workshop-pdf-2.pdf" class="btn btn-primary btn-lg" style="width:100%;">Download the PDF from here <i class="fa fa-download"></i></a>
-                            <div class="flexboxme"></div>
-                            <a href="https://www.adobe.com/in/products/illustrator/free-trial-download.html" class="btn btn-success btn-lg" style="width:100%;">Download Adobe Illustrator from here <i class="fa fa-download"></i></a>
-                            <div class="flexboxme"></div>
+                    <div class="col-md-2"></div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <br><br>
+                        <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                            <div class="titleTheme" style="font-size:20pt;text-align:left;">
+                                Internet of Things with Arduino  <br><br>                         
+                            </div>
+                            <br>
+                            <div>
+                                <b>Duration</b><br> 8 hours    
+                                <hr />
+                                <b>Date and Time</b> <br>19/10/19 9am-1pm and 20/10/19 9am-1pm
+                                <hr />
+                                <b>Venue</b> <br>Indian Institute of Technnology Gandhinagar
+                                <br><br>
+                                <a href="#" class="btn btn-primary">Register</a>
+                            </div>    
+                        </div>  
                     </div>
-                    <div class="col-md-2">                        
+                    <div class="col-md-6">
+                        <br><br>
+                        <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                            <div class="titleTheme" style="font-size:20pt;text-align:left;">
+                                Artificial Intelligence and Machine Learning with Python                                
+                            </div>
+                            <br>
+                            <div>
+                                <b>Duration</b><br> 8 hours    
+                                <hr />
+                                <b>Date and Time</b> <br>19/10/19 2pm-6pm & 20/10/19 2pm-6pm
+                                <hr />
+                                <b>Venue</b> <br>Indian Institute of Technnology Gandhinagar
+                                <br><br>
+                                <a href="#" class="btn btn-primary">Register</a>
+                            </div>    
+                        </div>  
                     </div>
-                </div>                                          
+                </div>                                                                      
             </div>
-            
+            <br><br><br><br><br><br><br><br>    
         </div>        
         <div class="secondPageDesigns">
             <div class="Layer0"></div>
@@ -277,6 +299,7 @@
 
     
     <?php include_once '../contactModal2.php'?>
+    
     <script>
         AOS.init({
             once:true
@@ -334,4 +357,4 @@
     </script>
     <!--Author: Nishikant Bhavesh Parmar (nishikant.parmar@iitgn.ac.in, +91 913 130 4419)-->
 </body>
-</html>
+</html> 
