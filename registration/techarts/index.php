@@ -69,6 +69,12 @@
                             </div>
                             <div class="form-row ">                                                                   
                                 <div class="form-group col-md-12"> 
+                                    <label> College/Institute* </label> 
+                                    <input name="memonecollege" id="memonecollege" type="text" class="form-control" placeholder="College/Institute" required>
+                                </div>                                                                                                         
+                            </div>
+                            <div class="form-row ">                                                                   
+                                <div class="form-group col-md-12"> 
                                     <label>Email ID* </label> 
                                     <input name="memoneemail" id="memoneemail" type="text" class="form-control" placeholder="Email ID" required>
                                 </div>                                                        
@@ -87,6 +93,12 @@
                                 <div class="form-group col-md-12"> 
                                     <label> Mobile Number* </label> 
                                     <input name="memtwomobile" id="memtwomobile" type="text" class="form-control" placeholder="Mobile Number" required>
+                                </div>                                                                                                         
+                            </div>
+                            <div class="form-row ">                                                                   
+                                <div class="form-group col-md-12"> 
+                                    <label> College/Institute* </label> 
+                                    <input name="memtwocollege" id="memtwocollege" type="text" class="form-control" placeholder="College/Institute" required>
                                 </div>                                                                                                         
                             </div>
                             <div class="form-row ">                                                                   

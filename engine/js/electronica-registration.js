@@ -1,4 +1,20 @@
-
+function sendMail(email, name){
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var response = this.responseText;
+            if(response=="done"){                                                                        
+                
+            }
+            else {
+                //$(".alertSubscribeTop").html("Please try again");
+                //error_show("Please try again");
+            }
+        }
+    };
+    xmlhttp.open("GET", "sendMail.php?email="+email+"&name="+name, true);
+    xmlhttp.send();     
+}
         var scrollEventHandler = function()
         {
         window.scroll(0, window.pageYOffset)
@@ -54,7 +70,7 @@
                         $("#memtwomobile").val('');    
                         $("#memtwocollegen").val('');                                                
                         $("#memtwoemail").val('');
-
+                        sendMail(memoneemail, memonename);
                         
                     }
                     else {

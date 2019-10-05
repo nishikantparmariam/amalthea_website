@@ -1,5 +1,21 @@
 
-
+    function sendMail(email, name){
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var response = this.responseText;
+                if(response=="done"){                                                                        
+                    
+                }
+                else {
+                    //$(".alertSubscribeTop").html("Please try again");
+                    //error_show("Please try again");
+                }
+            }
+        };
+        xmlhttp.open("GET", "sendMail.php?email="+email+"&name="+name, true);
+        xmlhttp.send();     
+    }
   // Your web app's Firebase configuration
   var firebaseConfig = {
     apiKey: "AIzaSyBoTd9aFav491piYUea8Tb1XaglTC8gHZE",
@@ -175,7 +191,9 @@
                             $("#memfivemobile").val('');                                      
                             $("#memfiveemail").val('');  
     
-                        }                        
+                        }       
+                        
+                        sendMail(memoneemail, teamname);
                         
                     }
                     else {

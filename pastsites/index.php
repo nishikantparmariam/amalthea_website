@@ -78,8 +78,7 @@
                     <a class="mainLinks5" href="../symposium/">Symposium</a>   
                     <a class="mainLinks6" href="../techexpo/">Tech Expo</a>   
                     <a class="mainLinks7" href="#" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>
-                    <a class="mainLinks9 " href="../app/">Download App</a>                                                                  
+                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>                                                                                    
                     <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
                 </div>
                 <div class="restLinksDiv">
@@ -153,10 +152,15 @@
 
     <div class="footer">
         <div class="container">
-            <div class="row">
-                <div class="col-md-8"></div>
-                <div class="col-md-4 text-center">
-                    <div class="footerSpan">                            
+            <div class="row footerSpan" style="margin:0px 5px;">                            
+                <div class="col-md-7">                    
+                    <a href="https://play.google.com/store/apps/details?id=in.ac.iitgn.amalthea">                            
+                        Download the Official Amalthea '19 App&nbsp;&nbsp;                    
+                        <img src="../engine/images/download_ps.png" style="height:45px;margin-top:1px;">
+                    </a>
+                </div>
+                <div class="col-md-5 text-center">
+                    <div style="padding:15px 0px;">                                                   
                         <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../CampusAmbassador">Join CA Program</a>                                          
                     </div>                    
                 </div>                

@@ -220,7 +220,7 @@ path {
 
 .navManuContainer .innerContainer .mainLinksDiv a {
     display: block !important;
-    margin-top:2.7vh !important;
+    margin-top:2.6vh !important;
     padding-top:3vh;
     opacity: 0;
     text-align:center;
@@ -315,6 +315,10 @@ path {
   }
 
 @media only screen and (max-width:900px) {
+
+    .footerSpan div a img {
+        display:none !important;
+    }
 
     .fixedInner {
         position:fixed;                    
@@ -1692,21 +1696,20 @@ path {
     background-color: transparent;
     color: white;
     text-align: center;
-    z-index:1099;
+    z-index:3 !important;
  }
 
  .footerSpan {     
-     background:#fff;
+     background:#ffffff;
      box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
-     padding-top:10px;
+     padding:3px 0;
      border:1px solid #fff;
-     border-bottom:none;
-     padding-bottom:10px;
+     border-bottom:none;     
      border-radius:10px 10px 0px 0px;
      color:#000 !important;    
  }
-
- .footerSpan a {
+ 
+ .footerSpan a {    
     color:#000 !important;    
     text-decoration: none !important;
       
