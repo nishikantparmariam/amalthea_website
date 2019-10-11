@@ -73,16 +73,18 @@
         
         <div class="navManuContainer">
             <div class="innerContainer" id="pp">
-                <div class="mainLinksDiv">                    
+                <div class="mainLinksDiv">   
+
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
-                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                  
-                    <a class="mainLinks3 " href="../conclave/">Conclave</a>    
-                    <a class="mainLinks4" href="../events/">Events</a>         
-                    <a class="mainLinks5" href="#">Symposium</a>             
-                    <a class="mainLinks6" href="../techexpo">Tech Expo</a>    
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>                                                      
-                    <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
+                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                
+                    <a class="mainLinks3 " href="../conclave/">Conclave</a>   
+                    <a class="mainLinks4" href="../events/">Events</a>        
+                    <a class="mainLinks5" href="../symposium/">Symposium</a>   
+                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>                             
+                    <a class="mainLinks7" href="../sponsors/">Sponsors</a>   
+                    <a class="mainLinks8" href="#">Workshop</a>     
+                    <a class="mainLinks9" href="../pastsites/">Past Sites</a>                                     
+                    <a class="mainLinks10" href="../contactus/" >Contact</a>                                                    
                 </div>
                 <div class="restLinksDiv">
                     <div class="socialMedia">
@@ -220,67 +222,31 @@
 
     <div class="secondPage" id="ToAboutPage">
         <div class="secondPageContainer">
-            <div class="container">
+            <div class="container">                                                
                 <div class="row">
-                    <div class="col-md-2"></div>
-                    <div class="col-md-8">
-                        <div class="testimonials"   data-aos="fade-up"  data-aos-duration="1600">                            
-                            <br><b>In Association With</b>
-                            <br><br>                            
-                            <div class="row">
-                                <div class="col-md-3"></div>
-                                <div class="col-md-6">
-                                    <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
-                                        <a href="https://www.htindialabs.com/"><img src = "../engine/images/workshop/htindialogo.png" style="width:100%;"></a>
-                                    </div>                                    
-                                </div>
-                                <div class="col-md-3"></div>                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-2"></div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-7">
                         <br><br>
                         <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
-                            <div class="titleTheme" style="font-size:20pt;text-align:left;">
-                                Internet of Things with Arduino  <br><br>                         
-                            </div>
-                            <br>
-                            <div>
-                                <b>Duration</b><br> 8 hours    
-                                <hr />
-                                <b>Date and Time</b> <br>19/10/19 9am-1pm and 20/10/19 9am-1pm
-                                <hr />
-                                <b>Venue</b> <br>Indian Institute of Technnology Gandhinagar
-                                <br><br>
-                                <a href="#" class="btn btn-primary">Register</a>
-                            </div>    
+                            <img src="../engine/images/workshop/header1.png" style="width:100%;">
                         </div>  
                     </div>
-                    <div class="col-md-6">
-                        <br><br>
-                        <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
-                            <div class="titleTheme" style="font-size:20pt;text-align:left;">
-                                Artificial Intelligence and Machine Learning with Python                                
+                    <div class="col-md-5">
+                        <br><br><br><br><br><br>
+                        <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">                        
+                            <div class="titleTheme" style="font-size:20pt;">                                                                                                
+                                Total Price Pool : Rs. 10,000
+                                <div class="underLine"></div>
                             </div>
-                            <br>
-                            <div>
-                                <b>Duration</b><br> 8 hours    
-                                <hr />
-                                <b>Date and Time</b> <br>19/10/19 2pm-6pm & 20/10/19 2pm-6pm
-                                <hr />
-                                <b>Venue</b> <br>Indian Institute of Technnology Gandhinagar
-                                <br><br>
-                                <a href="#" class="btn btn-primary">Register</a>
-                            </div>    
+                            <br>                            
+                            The workshop will be aimed at providing participants with a basic idea of the software-Fusion 360. There will also be a design competition based on the workshop whose problem statement will be released during the workshop and the submission will be on the 19th. 
+                            <br><br>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNkXQgL8g7W_jehhI-ep8LDvdfi6P_F3uhm_FHHAivVtQejw/viewform" class="btn btn-primary">Register Here</a>
+                                         
                         </div>  
                     </div>
-                </div>                                                                      
+                </div>                                                                                    
             </div>
-            <br><br><br><br><br><br><br><br>    
+            <br><br><br><br>
         </div>        
         <div class="secondPageDesigns">
             <div class="Layer0"></div>

@@ -73,10 +73,10 @@ body {
             margin-left:-50vw;        
             border-top-left-radius:100%150%;
             border-top-right-radius:100%150%;   
-            background: #2557C4;
-                      
+            background: #2557C4;                      
             transform: rotate(0deg);    
         }
+    
         @media only screen and (max-width:800px) {
             .pageOneDesignForm {
                 display:none;

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,14 +78,15 @@
             <div class="innerContainer" id="pp">
                 <div class="mainLinksDiv">                    
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
-                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                   
-                    <a class="mainLinks3 " href="../Conclave">Conclave</a>
-                    <a class="mainLinks4" href="#">Events</a>                 
-                    <a class="mainLinks5" href="../symposium/">Symposium</a>  
-                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>        
-                    <a class="mainLinks7" href="../pastsites">Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors">Past Sponsors</a>                                                                                      
-                    <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
+                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                
+                    <a class="mainLinks3 " href="../conclave/">Conclave</a>   
+                    <a class="mainLinks4" href="#">Events</a>        
+                    <a class="mainLinks5" href="../symposium/">Symposium</a>   
+                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>                             
+                    <a class="mainLinks7" href="../sponsors/">Sponsors</a>   
+                    <a class="mainLinks8" href="../workshop/">Workshop</a>     
+                    <a class="mainLinks9" href="../pastsites/">Past Sites</a>                                                                                                                      
+                    <a class="mainLinks10" href="../contactus/" >Contact</a>                                                                                                     
                 </div>
                 <div class="restLinksDiv">
                     <div class="socialMedia">
@@ -166,7 +168,7 @@
                 </div>
                 <div class="col-md-5 text-center">
                     <div style="padding:15px 0px;">                                                   
-                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../CampusAmbassador">Join CA Program</a>                                          
+                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../schedule">Bus and Events Schedule</a>                                          
                     </div>                    
                 </div>                
             </div>
@@ -248,6 +250,7 @@
                                     <br><br>
                                     <a href="../rulebooks/techarts.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/techarts/" class="btn btn-primary">Register</a>
+                                    <a href="../pastyearquestions/techarts.pdf" class="btn btn-info">Past Year Questions </a>
                                 </div>    
                             </div>
                             <br>
@@ -304,7 +307,7 @@
                                 </div>
                                 <br>
                                 <div>
-                                    <b>“Do you like challenging problems?”</b><br><br>D’code is back this year to give you some more, and test your skills in algorithms.<br><br>D’code is a three-hour competitive programming contest held on Codechef. Light up your coding spirits and seek the accepted (AC) verdict on your submissions!
+                                    Do YOU think you have the mettle to code the most efficient algorithms? D’code is back this year to give you some more challenging problems, where your code is the key to win exciting cash prizes.<br><br>D’code is a three-hour competitive programming contest held on Codechef. Light up your coding spirits and seek the accepted (AC) verdict on your submissions!<br><br>The Contest starts on <b>1 November, 21:00 hrs IST.</b>                                                                        
                                     <br><br>
                                     <a href="../rulebooks/decode.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/dcode/" class="btn btn-primary">Register</a>
@@ -321,7 +324,7 @@
                                 <div>
                                     IDRL and Amalthea are back with the fourth edition of DRA. So, gear up for an unparalleled aerial racing competition as the best pilots assemble to battle it out to decide who takes the glory. A thrilling do-or-die tournament where professionals from all over India showcase their drone racing skills in an exquisitely constructed arena.<br><br>Be a part of India's first National Drone Racing Event, as Amalthea promises to give you an experience like never before.
                                     <br><br>
-                                    <a href="../rulebooks/dra.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="https://docs.google.com/document/d/1Se-g_SKyVm5yME5lzapG-LtKsU2vWY48OpqaCQ92iRw/edit?usp=sharing" class="btn btn-success">See Rulebook</a>
                                     <a href="https://droneracingindia.com/events/b47e2850-dac5-11e9-8f7e-a581dee836fc" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>
@@ -412,13 +415,31 @@
                                 <br>
                                 <div>
                                 <b>“One man’s “magic” is another man’s engineering. “Supernatural” is a null word.”
-                                    <br>— Robert A. Heinlein</b>
+                                    <br>— Robert A. Heinlein</b>
                                     <br><br>
                                     Curiosity sparks Innovation, which cradles today's science and technology with not just brains but ingenuity as well and thus, We at Amalthea 2019, bring to you, ELECTRONICA. An event which will test your fundamentals in the field of Electronics. It will leave you puzzled but at the same time will help you enhance your technical prowess as you solve real-life problems. It will test your ability to design circuits to suit your needs; hence provoking a sense of fidelity to the field of Science and Technology. 
                                     So, to all the misfits and the rebels out there, to the tech-savvy freaks, We invite you to be a part of this engrossing event. Register here to win loads of prizes! Stay tuned for more updates                                    
                                     <br><br>
                                     <a href="../rulebooks/electronica.pdf" class="btn btn-success">See Rulebook</a>
                                     <a href="../registration/electronica/" class="btn btn-primary">Register</a>
+                                    <a href="../pastyearquestions/electronica.pdf" class="btn btn-info">Past Year Questions </a>
+                                </div>    
+                            </div>
+                            <br>                          
+                            <div class="box1"   data-aos="fade-up"  data-aos-duration="1600">
+                                <img src="../engine/images/events/chem-e-car.png" style="width:50%;margin-left:25%;">
+                                <div class="  titleTheme" style="text-align:center !important;" style="text-align:center !important;">                                        
+                                     
+                                </div>
+                                <br><br>
+                                <div>                                    
+                                    A car that runs on Chemicals, unique right? Just like this new event at Amalthea. 
+                                    <br><br>
+                                    Do you think you can make your own super-fast “Chem-e-car”? Then this is the right place for you. Build your own CMW (Chemical Made Wagon), win the race and get a chance to win exclusive prizes!
+                                    Build with chemicals, win with speed!!
+                                    <br><br>
+                                    <a href="../rulebooks/chemecar.pdf" class="btn btn-success">See Rulebook</a>
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScOZ6vlhhtwFjN8HWCHRpVw4nTDU3RsVdTlEH7ZYZpmofMyvQ/viewform" class="btn btn-primary">Register</a>
                                 </div>    
                             </div>                               
                         </div>                        
@@ -476,8 +497,93 @@
     </div>
     
     <div class="makeGood"></div>
-    <?php include_once '../lastpage.php'?>
-    <div class="extraDesignsBottom">
+    <div class="lastPage">
+        <div class="lastPageOuterContainer">
+            <div class="lastPageContainer">
+                <div class="container">
+                    <br><br><br>
+                    <div class="row">                        
+                        <div class="col-md-2">
+                            
+                        </div>
+                        
+                        <div class="col-md-8">
+                            <div class="subscribeForm" data-aos="fade-up" data-aos-duration="2000">
+                                    <i class="fa fa-connectdevelop"></i><br><br>
+                                    <b>SUBSCRIBE FOR UPDATES</b>
+                                    <div class="underLine"></div>
+                                    <br><br>        
+                                    <b>Be the first to find out about all the major announcements and breaking news from Amalthea '19. We will update you at the earliest.</b><br><br>                                                                                                        
+                                    <div class="alert alertSubscribeTop"></div>
+                                    <input type="text" class="form_input left" name="name" placeholder="Name" id="SubscribeName">
+                                    <input type="text" class="form_input right" name="email" placeholder="Email"  id="SubscribeEmail">
+                                    <button class="subscribeUsButton2" id="SubscribeSubmitBtn" onclick="submitSubscribeInfo()">Subscribe <i class="fa fa-send" style="font-size:12pt;"></i></button>                                    
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            
+                        </div>
+                    </div>                    
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="emailDes"  data-aos="fade-up" data-aos-duration="2000">
+                                <br><br><br>
+                                Want to know more about us?
+                                <br><br>
+                                Contact us at <a href="mailto:amalthea@iitgn.ac.in">amalthea@iitgn.ac.in</a>
+                                <br><br><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="forBg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="socialMediaBottom"  data-aos="fade-up" data-aos-duration="2000">
+                                    <div>
+                                        Follow us on
+                                    </div>
+                                    <div class="underLine"></div>
+                                    <a class="a1" style="border:none;width:15.6666666667%;" href="https://www.facebook.com/amalthea.iitgn/">
+                                        <i class="fa fa-facebook-square"></i>
+                                    </a>
+                                    <a class="a2"  style="border:none;width:15.6666666667%;" href="https://twitter.com/amalthea_iitgn?lang=en">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                    <a class="a3" href="https://www.instagram.com/amalthea_iitgn/"  style="border:none;width:15.6666666667%;">
+                                        <i class="fa fa-instagram"></i>
+                                    </a> 
+                                    <a class="a4" href="https://in.linkedin.com/company/amalthea-iit-gandhinagar"  style="border:none;width:15.6666666667%;">
+                                            <i class="fa fa-linkedin-square"></i>
+                                    </a>   
+                                    <a class="a5" href="https://www.youtube.com/user/AmaltheaIITGn"  style="border:none;width:15.6666666667%;"> 
+                                        <i class="fa fa-youtube"></i>
+                                    </a>                                          
+                                    <a class="a6" href="https://plus.google.com/105310452498347245863"  style="border:none;width:15.6666666667%;">
+                                        <i class="fa fa-google-plus-square"></i>
+                                    </a>                              
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="amlLastIntro"  data-aos="fade-up" data-aos-duration="2000">
+                                    <div class="title">AMALTHEA '19</div>
+                                    <div class="description">
+                                        Indian Institute of Technology Gandhinagar, Palaj,<br>Gandhinagar, Gujarat 382355
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>                   
+            </div> 
+              
+        </div>                
+    </div>    <div class="extraDesignsBottom">
         <div class="Layer0"></div>
         <div class="Layer1"></div>
         <div class="Layer2"></div>
@@ -488,8 +594,72 @@
     </div>
 
     
-    <?php include_once '../contactModal2.php'?>
-    <script>
+    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document"  style="width:100vw !important;">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <div  style="text-align:left;overflow-y:scroll !important;max-height:60vh;">
+                <b>Core Team</b><br><br>
+                <ul>                        
+                    <li>Ajinkya Pawar<br>+91 962 301 1800<br>ajinkya.pawar@iitgn.ac.in<br><br></li>
+                    <li>Harsh Patel<br>+91 707 306 9631<br>harsh.patel@iitgn.ac.in<br><br></li>
+                    <li>Dhanesh Bhutada<br>+91 942 070 6763<br>dhanesh.bhutada@iitgn.ac.in<br><br></li>
+                    <li>Udit Vyas<br>+91 997 986 9934<br>udit.18110176@iitgn.ac.in<br><br></li>
+                </ul>
+                <br>
+                <b>Coordinators</b><br><br>
+                <ul>                    
+                    <li><b>Conclave</b><br><br> Praveen Venkatesh<br>+91 984 080 3106<br>praveen.venkatesh@iitgn.ac.in<br><br></li>
+                    <li><b>Content Development</b><br><br> Bhavya Gupta<br>+91 978 296 8757<br>bhavya.gupta@iitgn.ac.in<br><br></li>
+                    <li><b>Design</b><br><br> Chris Francis<br>+91 635 533 2971<br>chris.francis@iitgn.ac.in<br><br>Rahul Patel<br>+91 977 375 1992<br>rahul.patel@iitgn.ac.in<br><br></li>
+                    <li><b>Exhibition</b><br><br> S Ganesh<br>+91 996 892 1693<br>s.ganesh@iitgn.ac.in<br><br></li>
+                    <li><b>Events</b><br><br> Dhruvi Lodhavia<br>+91 986 982 9361<br>dhruvi.lodhavia@iitgn.ac.in<br><br></li>
+                    <li><b>Marketing</b><br><br> Pradipbhai Prajapati<br>+91 972 727 4937<br>pradip.prajapati@iitgn.ac.in<br><br>Yash Kamble<br>+91 887 951 5322<br>yash.kamble@iitgn.ac.in<br><br></li>
+                    <li><b>Symposium</b><br><br> Arpita Kabra<br>+91 701 639 1153<br>arpita.kabra@iitgn.ac.in</li>
+                </ul>
+                <b>Web & App Developer</b><br><br>
+                Nishikant Parmar<br>+91 913 130 4419<br>nishikant.parmar@iitgn.ac.in
+            </div>                
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                
+        </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="brainWizModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">BrainWiz</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <div  style="max-height:60vh;overflow-y:auto;padding-right:10px;">
+                <img src="../engine/images/bwtp2.png" style="width:40%;margin-left:50%;transform:translate(-50%,0);">
+                <br><br><b>"The strength of the team is each individual member. The strength of each member is the team."</b>                
+                <br><br>With this in the mind, Amalthea comes back this year with a brand new iteration of "BRAINWIZ", an event specifically for students of class 8th to 12th to encourage them to look beyond their textual knowledge and give them a break from their traditional classroom learning.
+                <br><br>It is an event aimed at testing the participants' logical aptitude and applicative knowledge of science and maths. The event consists of three rounds - logical aptitude tests, chosen genre and buzzer round each with a surprise sub round.
+                <br><br>While being challenging to play against the best, it will also be a great fun. So gear up, don't question your strength, find a group of people who challenge and inspire you and get ready for the title of ‘BRAINWIZ’ and win exciting prizes. Stay glued to the website for updates.
+            </div>                
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <a  class="btn btn-success" href="../rulebooks/BrainWiz.pdf">See Rulebook</a>                      
+        </div>
+        </div>
+    </div>
+</div>    
+
+        <script>
         AOS.init({
             once:true
         });

@@ -72,14 +72,15 @@
             <div class="innerContainer" id="pp">
                 <div class="mainLinksDiv">                    
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
-                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                    
-                    <a class="mainLinks3 " href="../conclave/">Conclave</a>      
-                    <a class="mainLinks4" href="../events/">Events</a> 
+                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                
+                    <a class="mainLinks3 " href="../conclave/">Conclave</a>   
+                    <a class="mainLinks4" href="../events/">Events</a>        
                     <a class="mainLinks5" href="../symposium/">Symposium</a>   
-                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>   
-                    <a class="mainLinks7" href="#" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>                                                                                    
-                    <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
+                    <a class="mainLinks6" href="../techexpo/">Tech Expo</a>                             
+                    <a class="mainLinks7" href="../sponsors/">Sponsors</a>   
+                    <a class="mainLinks8" href="../workshop/">Workshop</a>     
+                    <a class="mainLinks9" href="#">Past Sites</a>                                                                                                                   
+                    <a class="mainLinks10" href="../contactus/" >Contact</a>                                                                                    
                 </div>
                 <div class="restLinksDiv">
                     <div class="socialMedia">
@@ -161,7 +162,7 @@
                 </div>
                 <div class="col-md-5 text-center">
                     <div style="padding:15px 0px;">                                                   
-                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../CampusAmbassador">Join CA Program</a>                                          
+                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../schedule">Bus and Events Schedule</a>                                          
                     </div>                    
                 </div>                
             </div>

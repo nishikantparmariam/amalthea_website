@@ -1708,12 +1708,18 @@ path {
      border-radius:10px 10px 0px 0px;
      color:#000 !important;    
  }
+
  
  .footerSpan a {    
     color:#000 !important;    
     text-decoration: none !important;
       
 }
+
+.footerSpan div div, .footerSpan div div a{
+    color:#ff0000 !important;
+}
+
 
 .makeGood {
     width:100vw;

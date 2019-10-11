@@ -70,16 +70,17 @@
         
         <div class="navManuContainer">
             <div class="innerContainer" id="pp">
-                <div class="mainLinksDiv">                    
+                <div class="mainLinksDiv">            
                     <a class="mainLinks1" href="../#ToHomePage">Home</a>                
-                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                     
+                    <a class="mainLinks2 " href="../#ToAboutPage">About</a>                                                
                     <a class="mainLinks3 " href="../conclave/">Conclave</a>   
-                    <a class="mainLinks4" href="../events/">Events</a>         
-                    <a class="mainLinks5" href="../symposium/">Symposium</a>    
-                    <a class="mainLinks6" href="#">Tech Expo</a>                     
-                    <a class="mainLinks7" href="../pastsites" >Past Sites</a>  
-                    <a class="mainLinks8" href="../sponsors/">Past Sponsors</a>                                                                   
-                    <a class="mainLinks10" href="#"  data-toggle="modal" data-target="#contactModal">Contact</a>                                                   
+                    <a class="mainLinks4" href="../events/">Events</a>        
+                    <a class="mainLinks5" href="../symposium/">Symposium</a>   
+                    <a class="mainLinks6" href="#">Tech Expo</a>                             
+                    <a class="mainLinks7" href="../sponsors/">Sponsors</a>   
+                    <a class="mainLinks8" href="../workshop/">Workshop</a>     
+                    <a class="mainLinks9" href="../pastsites/">Past Sites</a>                                                                                                                                  
+                    <a class="mainLinks10" href="../contactus/" >Contact</a>                                                                                                   
                 </div>
                 <div class="restLinksDiv">
                     <div class="socialMedia">
@@ -161,7 +162,7 @@
                 </div>
                 <div class="col-md-5 text-center">
                     <div style="padding:15px 0px;">                                                   
-                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../CampusAmbassador">Join CA Program</a>                                          
+                        <a href="#SubscribeName">Subscribe</a>&nbsp;|&nbsp;<a href="../schedule">Bus and Events Schedule</a>                                          
                     </div>                    
                 </div>                
             </div>
@@ -225,17 +226,37 @@
                     <br><br>
                     <div class="container">
                         <div class="row">
-                                <div class="col-md-4">                                    
+                                <div class="col-md-4" style="text-align:center;">                                    
                                     <br><a href="https://in.linkedin.com/company/arogyammedisoft"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/arogyam.jpg">     </a>
+                                    <br><br>
+                                    Arogyam Medisoft Solution pvt. Ltd. ( Haemurex Analyser) <br>
+                                    IoT based digital solutions in the field of healthcare and agriculture
+                                    <br><br>    
                                     <br><br><a href="https://www.teksun.in/company/teksuntrening/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/teksun.png">               </a>                                                                                        
+                                    <br><br>
+                                    Teksun lab [T-lab] (Product design, development and services) <br>
+                                    Product details: Sensors, trackers and embedded systems
+                                    <br><br>
                                     <br><br><a href="https://tlab-global.com/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/tlab-global.png">                                     </a>                                    
                                 </div>
-                                <div class="col-md-4">                                    
+                                <div class="col-md-4" style="text-align:center;">                                    
                                     <br><a href="https://www.menloparktech.com/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/menloparktech.png">    </a>
-                                    <br><br><div class="img-thubnail"><div style="background:#454B69 !important;border-radius:3px;"><a href="https://smartnode.in/"><img style="width:100%;" class="" src="../engine/images/expocompanies/smartnode.png"></a></div>                                        </div>
+                                    <br><br>
+                                    A global company with applications in aerospace, automotive and industrial
+                                    
+                                    <br><br><br><br><div class="img-thubnail"><div style="background:#454B69 !important;border-radius:3px;"><a href="https://smartnode.in/"><img style="width:100%;" class="" src="../engine/images/expocompanies/smartnode.png"></a></div>                                        </div>
+                                    <br>
+                                    Smart Node (Home automation) <br>
+                                    The vision is to convert each and every Indian home into a smart home
+                                    <br><br><br>
                                     <br><a href="https://eduvance.in/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/eduvance.png">                                    </a>
-                                    <br><br><a href="https://www.omicsonline.org/proceedings/creating-indro-the-tallest-humanoid-robot-of-india-and-further-developing-humanoid-robots-for-various-sectors-in-india-76170.html"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/indro30.jpg"> </a>                                    
-                                    <br><br><a href="https://www.mascottools.in/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/mascot.jpg">    </a>
+                                    <br><br>AR, VR, Drones
+                                    <br><br><br><br><a href="https://www.omicsonline.org/proceedings/creating-indro-the-tallest-humanoid-robot-of-india-and-further-developing-humanoid-robots-for-various-sectors-in-india-76170.html"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/indro30.jpg"> </a>                                    
+                                    <br><br>
+                                    Indro 3.0  (Tallest humanoid robot of India)                                    
+                                    <br><br><br><br><a href="https://www.mascottools.in/"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/mascot.jpg">    </a>
+                                    <br><br>
+                                    Mascot (Universal robot)     
                                 </div>
                                 <div class="col-md-4">                                    
                                     <br><a href="https://www.guvnl.com/guvnl/Content.aspx?ContentId=62"><img style="width:100%;"  class="img-thumbnail" src="../engine/images/expocompanies/guvnl.jpg">                                        </a>
